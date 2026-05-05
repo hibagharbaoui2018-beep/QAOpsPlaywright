@@ -1,0 +1,73 @@
+[   68775ms] [LOG] {event: delayed_popUpVisible, data: Object, pageName: gb:home:, pageType: home, pageURL: /} @ https://cdn.noibu.com/collect-core.js:0
+[   68985ms] ReferenceError: getPercentPageViewedAep is not defined
+    at <anonymous>:2:10
+    at e._insertCursor (https://assets.adobedtm.com/8552414d61e4/c0bffa871e03/launch-fad5f89bc2b0.min.js:9:20929)
+    at e._writeScriptToken (https://assets.adobedtm.com/8552414d61e4/c0bffa871e03/launch-fad5f89bc2b0.min.js:9:21582)
+    at e._handleScriptToken (https://assets.adobedtm.com/8552414d61e4/c0bffa871e03/launch-fad5f89bc2b0.min.js:9:20141)
+    at e._writeImpl (https://assets.adobedtm.com/8552414d61e4/c0bffa871e03/launch-fad5f89bc2b0.min.js:9:18753)
+    at e.write (https://assets.adobedtm.com/8552414d61e4/c0bffa871e03/launch-fad5f89bc2b0.min.js:9:18316)
+    at s (https://assets.adobedtm.com/8552414d61e4/c0bffa871e03/launch-fad5f89bc2b0.min.js:9:15984)
+    at o (https://assets.adobedtm.com/8552414d61e4/c0bffa871e03/launch-fad5f89bc2b0.min.js:9:15353)
+    at c (https://assets.adobedtm.com/8552414d61e4/c0bffa871e03/launch-fad5f89bc2b0.min.js:9:16360)
+    at i (https://assets.adobedtm.com/8552414d61e4/c0bffa871e03/launch-fad5f89bc2b0.min.js:9:10376)
+[   70062ms] [WARNING] Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ https://ad.doubleclick.net/ddm/adj/N3643.197812.NSO.CODESRV/B24331911.275486186;sz=1x2;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?458846924421?:0
+[   70062ms] [WARNING] Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ https://ad.doubleclick.net/ddm/adj/N3643.197812.NSO.CODESRV/B24331911.275486186;sz=1x2;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?458846924421?:146
+[   70283ms] [LOG] location 3 @ https://cdn.noibu.com/collect-core.js:0
+[   70409ms] [ERROR] Attestation check for Attribution Reporting on https://www.facebook.com failed. @ https://www.fortnumandmason.com/:0
+[   70560ms] [LOG] ZD is ready, setting conversation fields. @ https://cdn.noibu.com/collect-core.js:0
+[   70560ms] [LOG] MA @ https://cdn.noibu.com/collect-core.js:0
+[   71031ms] [LOG] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object] @ https://cdn.noibu.com/collect-core.js:0
+[   71193ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ https://www.fortnumandmason.com/:0
+[   73769ms] [LOG] [Object, Object, Object, Object, Object, Object, Object] @ https://cdn.noibu.com/collect-core.js:0
+[  179470ms] [LOG] ZD is ready, setting conversation fields. @ https://cdn.noibu.com/collect-core.js:0
+[  179474ms] [LOG] MA @ https://cdn.noibu.com/collect-core.js:0
+[  182584ms] [WARNING] Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ https://ad.doubleclick.net/ddm/adj/N3643.197812.NSO.CODESRV/B24331911.275486186;sz=1x2;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?128569006574?:0
+[  182740ms] [WARNING] Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ https://ad.doubleclick.net/ddm/adj/N3643.197812.NSO.CODESRV/B24331911.275486186;sz=1x2;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?128569006574?:146
+[  183951ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ https://www.fortnumandmason.com/hampers-category:0
+[  184526ms] [ERROR] Attestation check for Attribution Reporting on https://www.facebook.com failed. @ https://www.fortnumandmason.com/hampers-category:0
+[  184994ms] [LOG] location 3 @ https://cdn.noibu.com/collect-core.js:0
+[  185054ms] [LOG] [Object, Object, Object, Object, Object] @ https://cdn.noibu.com/collect-core.js:0
+[  211255ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ https://www.fortnumandmason.com/the-springtime-hamper:0
+[  211708ms] [LOG] [Object, Object, Object, Object, Object] @ https://cdn.noibu.com/collect-core.js:0
+[  212615ms] [LOG] ZD is ready, setting conversation fields. @ https://cdn.noibu.com/collect-core.js:0
+[  212618ms] [LOG] MA @ https://cdn.noibu.com/collect-core.js:0
+[  212857ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.fortnumandmason.com/media/catalog/product/5/2/5247610_spring26_the_springtime_hamper_pdp_b_1.jpg?width=0&quality=100:0
+[  212858ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.fortnumandmason.com/media/catalog/product/5/2/5247610_spring26_the_springtime_hamper_detail_a.jpg?width=0&quality=100:0
+[  212862ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.fortnumandmason.com/media/catalog/product/5/2/5247610_spring26_the_springtime_hamper_pdp_a.jpg?width=0&quality=100:0
+[  212862ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.fortnumandmason.com/media/catalog/product/2/2/2210864_spring26_white_chocolate_florentine_150g_detail.jpg?width=0&quality=100:0
+[  212863ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.fortnumandmason.com/media/catalog/product/2/1/2159406_spring26_milk_chocolate_coated_lemon_biscuit_180g_detail_a.jpg?width=0&quality=100:0
+[  212865ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.fortnumandmason.com/media/catalog/product/5/2/5247610_spring26_the_springtime_hamper_pdp_c.jpg?width=0&quality=100:0
+[  212866ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.fortnumandmason.com/media/catalog/product/5/1/5197303_spring26_sfogliatine_150g_detail_a.jpg?width=0&quality=100:0
+[  213287ms] [WARNING] Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ https://ad.doubleclick.net/ddm/adj/N3643.197812.NSO.CODESRV/B24331911.275486186;sz=1x2;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?299925157538?:0
+[  213288ms] [WARNING] Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ https://ad.doubleclick.net/ddm/adj/N3643.197812.NSO.CODESRV/B24331911.275486186;sz=1x2;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?299925157538?:146
+[  218955ms] [ERROR] Attestation check for Attribution Reporting on https://www.facebook.com failed. @ https://www.fortnumandmason.com/the-springtime-hamper:0
+[  219262ms] [LOG] {event: delayed_view_item, currency: GBP, value: 120, ecommerce: Object, pageName: ma:pdp:the-springtime-hamper} @ https://cdn.noibu.com/collect-core.js:0
+[  219915ms] [WARNING] 
+      Another Klarna Web SDK was already included into the page, 
+      please consider using data-client-instance-name attribute
+      on klarna.js script tag to avoid conflicts.
+     @ https://cdn.noibu.com/collect-core.js:0
+[  219928ms] [WARNING] 
+      Another Klarna Web SDK was already included into the page, 
+      please consider using data-client-instance-name attribute
+      on klarna.js script tag to avoid conflicts.
+     @ https://cdn.noibu.com/collect-core.js:0
+[  219935ms] [WARNING] 
+      Another Klarna Web SDK was already included into the page, 
+      please consider using data-client-instance-name attribute
+      on klarna.js script tag to avoid conflicts.
+     @ https://cdn.noibu.com/collect-core.js:0
+[  219945ms] [WARNING] 
+      Another Klarna Web SDK was already included into the page, 
+      please consider using data-client-instance-name attribute
+      on klarna.js script tag to avoid conflicts.
+     @ https://cdn.noibu.com/collect-core.js:0
+[  219952ms] [WARNING] 
+      Another Klarna Web SDK was already included into the page, 
+      please consider using data-client-instance-name attribute
+      on klarna.js script tag to avoid conflicts.
+     @ https://cdn.noibu.com/collect-core.js:0
+[  220246ms] [LOG] location 3 @ https://cdn.noibu.com/collect-core.js:0
+[  220257ms] [LOG] [Object, Object, Object] @ https://cdn.noibu.com/collect-core.js:0
+[  221341ms] [LOG] [Object] @ https://cdn.noibu.com/collect-core.js:0
+[  222920ms] [LOG] [Object, Object, Object, Object] @ https://cdn.noibu.com/collect-core.js:0

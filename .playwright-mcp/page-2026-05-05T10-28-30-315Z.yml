@@ -1,0 +1,953 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#main-content"
+    - link "Skip to menu" [ref=e4] [cursor=pointer]:
+      - /url: "#menu"
+    - link "Skip to footer" [ref=e5] [cursor=pointer]:
+      - /url: "#footer"
+  - generic [ref=e7]:
+    - banner [ref=e8]:
+      - generic [ref=e10]:
+        - button "Switch country and currency" [ref=e12] [cursor=pointer]:
+          - generic [ref=e15]: MA /
+          - generic [ref=e17]: £ GBP
+        - link "Royal Warrants" [ref=e19] [cursor=pointer]:
+          - /url: /stories/fortnums-royal-warrants
+          - img "Royal Warrants" [ref=e21]
+        - link "F&M Logo" [ref=e23] [cursor=pointer]:
+          - /url: /
+          - img "F&M Logo" [ref=e24]
+        - generic [ref=e26]:
+          - generic [ref=e31]:
+            - textbox "Search products" [ref=e32]:
+              - /placeholder: Search products..
+            - button "Search button" [ref=e33] [cursor=pointer]:
+              - generic [ref=e34]: 
+          - generic [ref=e35] [cursor=pointer]:
+            - button "Membership information" [ref=e37]:
+              - img "membership information" [ref=e39]
+            - generic [ref=e40]:
+              - button "Login" [ref=e41]
+              - text:   
+          - button "Wishlist" [ref=e43] [cursor=pointer]
+          - button "Shopping Basket" [ref=e45] [cursor=pointer]
+      - navigation [ref=e46]:
+        - menu [ref=e47]:
+          - menuitem "New In" [ref=e48]:
+            - link "New In" [ref=e51] [cursor=pointer]:
+              - /url: /new-in
+          - menuitem "Hampers" [ref=e52]:
+            - link "Hampers" [ref=e55] [cursor=pointer]:
+              - /url: /hampers-category
+          - menuitem "Picnic" [ref=e56]:
+            - link "Picnic" [ref=e59] [cursor=pointer]:
+              - /url: /seasonal-events/picnic
+          - menuitem "Gifts" [ref=e60]:
+            - link "Gifts" [ref=e63] [cursor=pointer]:
+              - /url: /gifts-occasions-category
+          - menuitem "Food Hall" [ref=e64]:
+            - link "Food Hall" [ref=e67] [cursor=pointer]:
+              - /url: /food-hall
+          - menuitem "Wine & Spirits" [ref=e68]:
+            - link "Wine & Spirits" [ref=e71] [cursor=pointer]:
+              - /url: /wine-spirits
+          - menuitem "Tea & Coffee" [ref=e72]:
+            - link "Tea & Coffee" [ref=e75] [cursor=pointer]:
+              - /url: /tea-coffee
+          - menuitem "Biscuits & Chocolate" [ref=e76]:
+            - link "Biscuits & Chocolate" [ref=e79] [cursor=pointer]:
+              - /url: /biscuits-chocolates
+          - menuitem "Home & Kitchen" [ref=e80]:
+            - link "Home & Kitchen" [ref=e83] [cursor=pointer]:
+              - /url: /homeware
+          - menuitem "Beauty & Accessories" [ref=e84]:
+            - link "Beauty & Accessories" [ref=e87] [cursor=pointer]:
+              - /url: /beauty-accessories
+          - menuitem "Visit Fortnum's" [ref=e88]:
+            - link "Visit Fortnum's" [ref=e91] [cursor=pointer]:
+              - /url: /our-stores
+    - generic [ref=e102]:
+      - article [ref=e105]:
+        - generic [ref=e114]:
+          - generic [ref=e115]:
+            - figure [ref=e116]:
+              - link "Hampers for Every Occasion at Fortnum & Mason" [ref=e117] [cursor=pointer]:
+                - /url: /gifts-occasions/gifts-for-someone-special
+                - img "Hampers for Every Occasion at Fortnum & Mason" [ref=e119]
+            - paragraph [ref=e1014]:
+              - generic [ref=e1016]:
+                - text: Lift the Lid on
+                - emphasis [ref=e1017]: Spring Adventures
+            - link "Shop Hampers" [ref=e127] [cursor=pointer]:
+              - /url: /hampers/all-hampers
+          - generic [ref=e128]:
+            - figure [ref=e129]:
+              - link "Gifting at Fortnum & Mason" [ref=e130] [cursor=pointer]:
+                - /url: /gifts-occasions/gifts-for-someone-special
+                - img "Gifting at Fortnum & Mason" [ref=e132]
+            - paragraph [ref=e1018]:
+              - generic [ref=e1020]:
+                - text: Something
+                - text: For
+                - emphasis [ref=e1021]: Everyone
+            - link "Shop Now" [ref=e140] [cursor=pointer]:
+              - /url: /gifts-occasions/gifts-for-someone-special
+        - generic [ref=e144]:
+          - heading "Say It With Fortnum's" [level=2] [ref=e145]
+          - generic [ref=e146]:
+            - link "Hampers" [ref=e1023] [cursor=pointer]:
+              - /url: /hampers/all-hampers
+              - generic [ref=e1027]: Hampers
+            - link "Picnic" [ref=e1029] [cursor=pointer]:
+              - /url: /seasonal-events/picnic
+              - generic [ref=e1033]: Picnic
+            - link "Gift Boxes" [ref=e1035] [cursor=pointer]:
+              - /url: /hampers/gift-boxes
+              - generic [ref=e1039]: Gift Boxes
+            - link "Biscuits" [ref=e1041] [cursor=pointer]:
+              - /url: /biscuits
+              - generic [ref=e1045]: Biscuits
+            - link "Tea & Coffee" [ref=e1047] [cursor=pointer]:
+              - /url: /tea-coffee
+              - generic [ref=e1051]: Tea & Coffee
+            - link "Chocolate" [ref=e1053] [cursor=pointer]:
+              - /url: /chocolate-confectionery/chocolate
+              - generic [ref=e1057]: Chocolate
+            - link "New In" [ref=e1059] [cursor=pointer]:
+              - /url: /new-in
+              - generic [ref=e1063]: New In
+            - link "Champagne & Sparkling" [ref=e1065] [cursor=pointer]:
+              - /url: /wine-spirits/wines/champagne-sparkling
+              - generic [ref=e1069]: Champagne & Sparkling
+            - link "Birthday Gifts" [ref=e1071] [cursor=pointer]:
+              - /url: /gifts-occasions/occasions/birthday
+              - generic [ref=e1075]: Birthday Gifts
+        - generic [ref=e210]:
+          - heading "Joyful Gifts for Every Occasion" [level=2] [ref=e1076]:
+            - generic [ref=e1078]: Joyful Gifts for Every Occasion
+          - generic [ref=e215]:
+            - paragraph [ref=e1079]: Take your pick of glorious gifts and mouthwatering treats, and discover our latest new arrivals at Fortnum's.
+            - paragraph [ref=e1080]
+          - generic [ref=e221]:
+            - link "Shop Gifts By Occasion" [ref=e223] [cursor=pointer]:
+              - /url: https://www.fortnumandmason.com/gifts-occasions/occasions
+            - link "Shop Gifts By Recipient" [ref=e225] [cursor=pointer]:
+              - /url: https://www.fortnumandmason.com/gifts-occasions/gifts-for-someone-special
+          - generic [ref=e229]:
+            - generic [ref=e232]:
+              - link "The Birthday Celebration Hamper" [ref=e235] [cursor=pointer]:
+                - /url: /the-birthday-celebration-hamper
+              - generic [ref=e240]:
+                - text: 
+                - generic [ref=e241]:
+                  - link "The Birthday Celebration Hamper" [ref=e243] [cursor=pointer]:
+                    - /url: /the-birthday-celebration-hamper
+                  - generic [ref=e245]: £200.00
+            - generic [ref=e248]:
+              - link "Fortnum's Personalised Blanc de Blancs Champagne, Hostomme, 75cl" [ref=e251] [cursor=pointer]:
+                - /url: /fortnums-personalised-blanc-de-blancs-champagne-75cl
+                - img "Image of Fortnum's Personalised Blanc de Blancs Champagne, Hostomme, 75cl" [ref=e255]
+              - generic [ref=e257]:
+                - text: 
+                - generic [ref=e258]:
+                  - link "Fortnum's Personalised Blanc de Blancs Champagne, Hostomme, 75cl" [ref=e260] [cursor=pointer]:
+                    - /url: /fortnums-personalised-blanc-de-blancs-champagne-75cl
+                  - generic [ref=e262]: £55.00
+            - generic [ref=e265]:
+              - link "The New Baby Hamper" [ref=e268] [cursor=pointer]:
+                - /url: /the-new-baby-hamper
+              - generic [ref=e273]:
+                - text: 
+                - generic [ref=e274]:
+                  - link "The New Baby Hamper" [ref=e276] [cursor=pointer]:
+                    - /url: /the-new-baby-hamper
+                  - generic [ref=e278]: £200.00
+            - generic [ref=e281]:
+              - link "The Celebration Hamper" [ref=e284] [cursor=pointer]:
+                - /url: /the-celebration-hamper
+              - generic [ref=e289]:
+                - text: 
+                - generic [ref=e290]:
+                  - link "The Celebration Hamper" [ref=e292] [cursor=pointer]:
+                    - /url: /the-celebration-hamper
+                  - generic [ref=e294]: £300.00
+            - generic [ref=e297]:
+              - link "Tea & Biscuit Gift Set" [ref=e300] [cursor=pointer]:
+                - /url: /tea-biscuit-gift-set
+              - generic [ref=e305]:
+                - text: 
+                - generic [ref=e306]:
+                  - link "Tea & Biscuit Gift Set" [ref=e308] [cursor=pointer]:
+                    - /url: /tea-biscuit-gift-set
+                  - generic [ref=e310]: £24.95
+            - generic [ref=e313]:
+              - link "Fortnum’s Beauty Box" [ref=e316] [cursor=pointer]:
+                - /url: /fortnums-beauty-box
+              - generic [ref=e321]:
+                - text: 
+                - generic [ref=e322]:
+                  - link "Fortnum’s Beauty Box" [ref=e324] [cursor=pointer]:
+                    - /url: /fortnums-beauty-box
+                  - generic [ref=e326]: £165.00
+            - generic [ref=e329]:
+              - link "The Little Treasures Hamper" [ref=e332] [cursor=pointer]:
+                - /url: /the-little-treasures-hamper
+              - generic [ref=e337]:
+                - text: 
+                - generic [ref=e338]:
+                  - link "The Little Treasures Hamper" [ref=e340] [cursor=pointer]:
+                    - /url: /the-little-treasures-hamper
+                  - generic [ref=e342]: £60.00
+            - generic [ref=e345]:
+              - link "Avery Row Little Farm Swaddle and Cuddle New Baby Gift Set" [ref=e348] [cursor=pointer]:
+                - /url: /avery-row-little-farm-swaddle-and-cuddle-new-baby-gift-set
+              - generic [ref=e353]:
+                - text: 
+                - generic [ref=e354]:
+                  - link "Avery Row Little Farm Swaddle and Cuddle New Baby Gift Set" [ref=e356] [cursor=pointer]:
+                    - /url: /avery-row-little-farm-swaddle-and-cuddle-new-baby-gift-set
+                  - generic [ref=e358]: £50.00
+            - generic [ref=e361]:
+              - link "Fortnum's x The Jacksons 1707 Jute Bag" [ref=e364] [cursor=pointer]:
+                - /url: /fortnums-x-the-jacksons-1707-jute-bag
+              - generic [ref=e369]:
+                - text: 
+                - generic [ref=e370]:
+                  - link "Fortnum's x The Jacksons 1707 Jute Bag" [ref=e372] [cursor=pointer]:
+                    - /url: /fortnums-x-the-jacksons-1707-jute-bag
+                  - generic [ref=e374]: £120.00
+            - generic [ref=e377]:
+              - link "The Relaxation Gift Box" [ref=e380] [cursor=pointer]:
+                - /url: /the-relaxation-gift-box
+              - generic [ref=e385]:
+                - text: 
+                - generic [ref=e386]:
+                  - link "The Relaxation Gift Box" [ref=e388] [cursor=pointer]:
+                    - /url: /the-relaxation-gift-box
+                  - generic [ref=e390]: £60.00
+            - generic [ref=e393]:
+              - link "The Taste of Italy Hamper" [ref=e396] [cursor=pointer]:
+                - /url: /the-italian-wine-hamper
+              - generic [ref=e401]:
+                - text: 
+                - generic [ref=e402]:
+                  - link "The Taste of Italy Hamper" [ref=e404] [cursor=pointer]:
+                    - /url: /the-italian-wine-hamper
+                  - generic [ref=e406]: £150.00
+            - generic [ref=e409]:
+              - link "The Champagne Celebration Box" [ref=e412] [cursor=pointer]:
+                - /url: /the-champagne-chocolate-gift-box
+              - generic [ref=e417]:
+                - text: 
+                - generic [ref=e418]:
+                  - link "The Champagne Celebration Box" [ref=e420] [cursor=pointer]:
+                    - /url: /the-champagne-chocolate-gift-box
+                  - generic [ref=e422]: £90.00
+            - generic [ref=e425]:
+              - link "Forivor Gift Box of 3 Bibs and Small Muslin, Once Upon A Feast" [ref=e428] [cursor=pointer]:
+                - /url: /forivor-gift-box-of-3-bibs-and-small-muslin-once-upon-a-feast
+              - generic [ref=e433]:
+                - text: 
+                - generic [ref=e434]:
+                  - link "Forivor Gift Box of 3 Bibs and Small Muslin, Once Upon A Feast" [ref=e436] [cursor=pointer]:
+                    - /url: /forivor-gift-box-of-3-bibs-and-small-muslin-once-upon-a-feast
+                  - generic [ref=e438]: £110.00
+        - generic [ref=e450]:
+          - figure [ref=e452]:
+            - link "Create Your Own Hamper at Fortnum & Mason" [ref=e453] [cursor=pointer]:
+              - /url: /create-your-own-hamper
+              - img "Create Your Own Hamper at Fortnum & Mason" [ref=e455]
+          - figure [ref=e457]:
+            - link "Create Your Own Hamper at Fortnum & Mason" [ref=e458] [cursor=pointer]:
+              - /url: /create-your-own-hamper
+              - img "Create Your Own Hamper at Fortnum & Mason" [ref=e460]
+        - generic [ref=e467]:
+          - heading "Newly Bloomed at Fortnum's" [level=2] [ref=e1081]:
+            - generic [ref=e1083]: Newly Bloomed at Fortnum's
+          - paragraph [ref=e1084]: Take your pick of glorious gifts and mouthwatering treats, and discover our latest new arrivals at Fortnum's.
+          - link "Shop Newness" [ref=e479] [cursor=pointer]:
+            - /url: https://www.fortnumandmason.com/new-in
+          - generic [ref=e483]:
+            - generic [ref=e486]:
+              - link "The Fortnum's Infusions Hamper" [ref=e489] [cursor=pointer]:
+                - /url: /the-fortnums-infusions-hamper
+              - generic [ref=e494]:
+                - text: 
+                - generic [ref=e495]:
+                  - link "The Fortnum's Infusions Hamper" [ref=e497] [cursor=pointer]:
+                    - /url: /the-fortnums-infusions-hamper
+                  - generic [ref=e499]: £150.00
+            - generic [ref=e502]:
+              - link "Infusions Pocket Tin Gift Set" [ref=e505] [cursor=pointer]:
+                - /url: /infusions-pocket-tin-gift-set
+                - generic [ref=e506]:
+                  - generic:
+                    - generic:
+                      - img "Image of Infusions Pocket Tin Gift Set"
+              - generic [ref=e508]:
+                - text: 
+                - generic [ref=e509]:
+                  - link "Infusions Pocket Tin Gift Set" [ref=e511] [cursor=pointer]:
+                    - /url: /infusions-pocket-tin-gift-set
+                  - generic [ref=e513]: £29.95
+            - generic [ref=e516]:
+              - link "David Hinkins’ Seville Orange & Passionfruit Marmalade, Dalemain Winner 2026" [ref=e519] [cursor=pointer]:
+                - /url: /david-hinkins-seville-orange-passionfruit-marmalade-dalemain-winner-2026
+              - generic [ref=e524]:
+                - text: 
+                - generic [ref=e525]:
+                  - link "David Hinkins’ Seville Orange & Passionfruit Marmalade, Dalemain Winner 2026" [ref=e527] [cursor=pointer]:
+                    - /url: /david-hinkins-seville-orange-passionfruit-marmalade-dalemain-winner-2026
+                  - generic [ref=e529]: £6.95
+            - generic [ref=e532]:
+              - link "Teasy Travel Tea Infuser, Glass" [ref=e535] [cursor=pointer]:
+                - /url: /teasy-travel-tea-infuser-glass
+              - generic [ref=e540]:
+                - text: 
+                - generic [ref=e541]:
+                  - link "Teasy Travel Tea Infuser, Glass" [ref=e543] [cursor=pointer]:
+                    - /url: /teasy-travel-tea-infuser-glass
+                  - generic [ref=e545]: £60.00
+            - generic [ref=e548]:
+              - link "Missoma Molten Heart Statement Earrings, Gold" [ref=e551] [cursor=pointer]:
+                - /url: /missoma-molten-heart-statement-earrings-gold
+              - generic [ref=e556]:
+                - text: 
+                - generic [ref=e557]:
+                  - link "Missoma Molten Heart Statement Earrings, Gold" [ref=e559] [cursor=pointer]:
+                    - /url: /missoma-molten-heart-statement-earrings-gold
+                  - generic [ref=e561]: £250.00
+            - generic [ref=e564]:
+              - link "Anya Hindmarch Raffia Phone Pouch, Natural" [ref=e567] [cursor=pointer]:
+                - /url: /anya-hindmarch-raffia-phone-pouch-natural
+              - generic [ref=e572]:
+                - text: 
+                - generic [ref=e573]:
+                  - link "Anya Hindmarch Raffia Phone Pouch, Natural" [ref=e575] [cursor=pointer]:
+                    - /url: /anya-hindmarch-raffia-phone-pouch-natural
+                  - generic [ref=e577]: £395.00
+            - generic [ref=e580]:
+              - link "Fortnum's Earl Grey Tea Selection, 40 Tea Bags" [ref=e583] [cursor=pointer]:
+                - /url: /fortnums-earl-grey-tea-selection-40-tea-bags
+              - generic [ref=e588]:
+                - text: 
+                - generic [ref=e589]:
+                  - link "Fortnum's Earl Grey Tea Selection, 40 Tea Bags" [ref=e591] [cursor=pointer]:
+                    - /url: /fortnums-earl-grey-tea-selection-40-tea-bags
+                  - generic [ref=e593]: £27.95
+        - generic [ref=e597]:
+          - generic [ref=e600]:
+            - paragraph [ref=e1085]:
+              - generic [ref=e1086]: Destination Fortnum's
+            - paragraph [ref=e1087]: Events, Experiences and Things to Enjoy at Piccadilly
+          - generic [ref=e610]:
+            - tablist [ref=e613]:
+              - generic [ref=e614]:
+                - img "Explore Our Piccadilly Store" [ref=e616]
+                - tab "Explore Our Piccadilly Store" [selected] [ref=e618] [cursor=pointer]
+              - generic [ref=e619]:
+                - img "Our Third Floor" [ref=e621]
+                - tab "Our Third Floor" [ref=e623] [cursor=pointer]
+            - tabpanel "Explore Our Piccadilly Store" [ref=e625]:
+              - generic [ref=e626]:
+                - list [ref=e628]:
+                  - listitem [ref=e629]:
+                    - link "Welcome to 181 Piccadilly Welcome to 181 Piccadilly Explore more" [ref=e630] [cursor=pointer]:
+                      - /url: /piccadilly
+                      - generic [ref=e631]:
+                        - img "Welcome to 181 Piccadilly" [ref=e633]
+                        - generic [ref=e634]: Welcome to 181 Piccadilly
+                        - generic [ref=e635]:
+                          - text: Explore more
+                          - generic [ref=e636]: 
+                  - listitem [ref=e637]:
+                    - link "Dine with Us Dine with Us Explore more" [ref=e638] [cursor=pointer]:
+                      - /url: /restaurants
+                      - generic [ref=e639]:
+                        - img "Dine with Us" [ref=e641]
+                        - generic [ref=e642]: Dine with Us
+                        - generic [ref=e643]:
+                          - text: Explore more
+                          - generic [ref=e644]: 
+                  - listitem [ref=e645]:
+                    - link "Food to Go, Lower Ground Food to Go, Lower Ground Find out more" [ref=e646] [cursor=pointer]:
+                      - /url: /piccadilly
+                      - generic [ref=e647]:
+                        - img "Food to Go, Lower Ground" [ref=e649]
+                        - generic [ref=e650]: Food to Go, Lower Ground
+                        - generic [ref=e651]:
+                          - text: Find out more
+                          - generic [ref=e652]: 
+                  - listitem [ref=e653]:
+                    - link "Piccadilly Windows Piccadilly Windows Find out more" [ref=e654] [cursor=pointer]:
+                      - /url: /piccadilly
+                      - generic [ref=e655]:
+                        - img "Piccadilly Windows" [ref=e657]
+                        - generic [ref=e658]: Piccadilly Windows
+                        - generic [ref=e659]:
+                          - text: Find out more
+                          - generic [ref=e660]: 
+                  - listitem [ref=e661]:
+                    - link [ref=e662] [cursor=pointer]:
+                      - /url: /events
+                      - generic [ref=e663]:
+                        - img [ref=e665]
+                        - generic [ref=e666]: Explore Our Events
+                        - generic [ref=e667]:
+                          - text: View Events
+                          - generic [ref=e668]: 
+                  - listitem [ref=e669]:
+                    - link [ref=e670] [cursor=pointer]:
+                      - /url: https://www.sevenrooms.com/explore/diamondjubileeteasalon/reservations/create/search
+                      - generic [ref=e671]:
+                        - img [ref=e673]
+                        - generic [ref=e674]: Join Us For Afternoon Tea
+                        - generic [ref=e675]:
+                          - text: Book now
+                          - generic [ref=e676]: 
+                  - listitem [ref=e677]:
+                    - link [ref=e678] [cursor=pointer]:
+                      - /url: /personal-shopping
+                      - generic [ref=e679]:
+                        - img [ref=e681]
+                        - generic [ref=e682]: Personal Shopping
+                        - generic [ref=e683]:
+                          - text: Find out more
+                          - generic [ref=e684]: 
+                  - listitem [ref=e685]:
+                    - link [ref=e686] [cursor=pointer]:
+                      - /url: https://www.eventbrite.co.uk/e/delicious-history-tour-tickets-1980451542877?aff=oddtdtcreator&_gl=1%2A1skpdg2%2A_up%2AMQ..%2A_ga%2AMTc4NDU1MDI5MC4xNzY4MzE1MDUw%2A_ga_TQVES5V6SH%2AczE3NjgzMTUwNDkkbzEkZzAkdDE3NjgzMTUwNDkkajYwJGwwJGgw
+                      - generic [ref=e687]:
+                        - img [ref=e689]
+                        - generic [ref=e690]: Delicious History Tours
+                        - generic [ref=e691]:
+                          - text: Book a Tour here
+                          - generic [ref=e692]: 
+                  - listitem [ref=e693]:
+                    - link [ref=e694] [cursor=pointer]:
+                      - /url: /stories/the-double-helix-staircase
+                      - generic [ref=e695]:
+                        - img [ref=e697]
+                        - generic [ref=e698]: Our Helix Staircase
+                        - generic [ref=e699]:
+                          - text: Find out more
+                          - generic [ref=e700]: 
+                - list [ref=e701]:
+                  - button "Go to slide 1" [ref=e1088] [cursor=pointer]
+                  - button "Go to slide 2" [ref=e1089] [cursor=pointer]
+                  - button "Go to slide 3" [ref=e1090] [cursor=pointer]
+                  - button "Go to slide 4" [ref=e1091] [cursor=pointer]
+                  - button "Go to slide 5" [ref=e1092] [cursor=pointer]
+                  - button "Go to slide 6" [ref=e1093] [cursor=pointer]
+                - button "" [ref=e1094] [cursor=pointer]:
+                  - generic: 
+        - generic [ref=e715]:
+          - heading "Special Gifts for Special Someones" [level=2] [ref=e1095]:
+            - generic [ref=e1096]:
+              - text: Special Gifts
+              - emphasis [ref=e1097]
+              - text: for Special Someones
+          - generic [ref=e727]:
+            - figure [ref=e729]:
+              - link "Weddings at Fortnum & Mason" [ref=e730] [cursor=pointer]:
+                - /url: /gifts-occasions/occasions/weddings
+                - img "Weddings at Fortnum & Mason" [ref=e732]
+            - figure [ref=e734]:
+              - link "New In at Fortnum & Mason" [ref=e735] [cursor=pointer]:
+                - /url: https://www.fortnumandmason.com/new-in
+                - img "New In at Fortnum & Mason" [ref=e737]
+            - figure [ref=e739]:
+              - link "Personalised Gifts at Fortnum & Mason" [ref=e740] [cursor=pointer]:
+                - /url: /gifts-occasions/gifting-ideas/personalised-gifts
+                - img "Personalised Gifts at Fortnum & Mason" [ref=e742]
+        - generic [ref=e754]:
+          - figure [ref=e756]:
+            - link "Content image" [ref=e757] [cursor=pointer]:
+              - /url: /membership
+              - img "Content image" [ref=e759]
+          - figure [ref=e761]:
+            - link "Content image" [ref=e762] [cursor=pointer]:
+              - /url: /membership
+              - img "Content image" [ref=e764]
+        - generic [ref=e773]:
+          - figure [ref=e774]:
+            - img "Content image" [ref=e776]
+          - generic [ref=e778]:
+            - generic [ref=e779]:
+              - figure [ref=e780]:
+                - link "MAUNIKA GOWARDHAN DIWALI SUPPER CLUB" [ref=e781] [cursor=pointer]:
+                  - /url: /stories/chapeau-at-fortnums
+                  - img "MAUNIKA GOWARDHAN DIWALI SUPPER CLUB" [ref=e783]
+              - generic [ref=e784]:
+                - paragraph
+                - heading "CHAPEAU! AT FORTNUM'S" [level=4] [ref=e1098]
+                - paragraph
+                - button "Read more" [ref=e786] [cursor=pointer]: Read more +
+              - generic [ref=e787]:
+                - paragraph [ref=e1099]: Discover a seasonal showcase of British ...
+                - button "Read more" [ref=e789] [cursor=pointer]: Read more +
+            - generic [ref=e790]:
+              - figure [ref=e791]:
+                - link "LEAF ENCOUNTER" [ref=e792] [cursor=pointer]:
+                  - /url: https://www.fortnumandmason.com/stories/the-dalemain-marmalade-awards
+                  - img "LEAF ENCOUNTER" [ref=e794]
+              - generic [ref=e795]:
+                - paragraph
+                - heading "DALEMAIN MARMALADE AWARDS 2026 WINNER" [level=4] [ref=e1100]
+                - paragraph
+                - button "Read more" [ref=e797] [cursor=pointer]: Read more +
+              - generic [ref=e798]:
+                - paragraph [ref=e1101]: Discover the winning jar of this year's ...
+                - button "Read more" [ref=e800] [cursor=pointer]: Read more +
+            - generic [ref=e801]:
+              - figure [ref=e802]:
+                - link "THE CREATIVE DIMENSION TRUST" [ref=e803] [cursor=pointer]:
+                  - /url: /stories/summer-picnic-events
+                  - img "THE CREATIVE DIMENSION TRUST" [ref=e805]
+              - generic [ref=e806]:
+                - paragraph
+                - heading "SUMMER EVENTS WITH FORTNUM'S" [level=4] [ref=e1102]
+                - paragraph
+                - button "Read more" [ref=e808] [cursor=pointer]: Read more +
+              - generic [ref=e809]:
+                - paragraph [ref=e1103]: All the events our famous hampers will b...
+                - button "Read more" [ref=e811] [cursor=pointer]: Read more +
+          - link "View more Stories" [ref=e814] [cursor=pointer]:
+            - /url: /stories
+      - contentinfo [ref=e815]:
+        - generic [ref=e816]:
+          - heading "Sign up to our newsletter" [level=2] [ref=e817]
+          - generic [ref=e818]:
+            - paragraph [ref=e820]: "Exciting news, exclusive events, & delicious products: subscribe to our emails to hear the latest from Fortnum's"
+            - textbox "Email" [ref=e821]:
+              - /placeholder: Enter your email
+          - generic:
+            - separator [ref=e822]
+            - generic [ref=e823]:
+              - generic [ref=e824]: Where do you live?
+              - generic [ref=e826]:
+                - generic [ref=e828]: 
+                - combobox "Where do you live?" [ref=e829] [cursor=pointer]:
+                  - option "Please select..." [selected]
+                  - option "United Kingdom"
+                  - option "United States"
+                  - option "Afghanistan"
+                  - option "Albania"
+                  - option "Algeria"
+                  - option "Andorra"
+                  - option "Angola"
+                  - option "Antigua & Deps"
+                  - option "Argentina"
+                  - option "Armenia"
+                  - option "Australia"
+                  - option "Austria"
+                  - option "Azerbaijan"
+                  - option "Bahamas"
+                  - option "Bahrain"
+                  - option "Bangladesh"
+                  - option "Barbados"
+                  - option "Belarus"
+                  - option "Belgium"
+                  - option "Belize"
+                  - option "Benin"
+                  - option "Bhutan"
+                  - option "Bolivia"
+                  - option "Bosnia Herzegovina"
+                  - option "Botswana"
+                  - option "Brazil"
+                  - option "Brunei"
+                  - option "Bulgaria"
+                  - option "Burkina"
+                  - option "Burundi"
+                  - option "Cambodia"
+                  - option "Cameroon"
+                  - option "Canada"
+                  - option "Cape Verde"
+                  - option "Central African Rep"
+                  - option "Chad"
+                  - option "Chile"
+                  - option "China (Mainland)"
+                  - option "Colombia"
+                  - option "Comoros"
+                  - option "Congo"
+                  - 'option "Congo {Democratic Rep}"'
+                  - option "Costa Rica"
+                  - option "Croatia"
+                  - option "Cuba"
+                  - option "Cyprus"
+                  - option "Czech Republic"
+                  - option "Denmark"
+                  - option "Djibouti"
+                  - option "Dominica"
+                  - option "Dominican Republic"
+                  - option "East Timor"
+                  - option "Ecuador"
+                  - option "Egypt"
+                  - option "El Salvador"
+                  - option "Equatorial Guinea"
+                  - option "Eritrea"
+                  - option "Estonia"
+                  - option "Ethiopia"
+                  - option "Fiji"
+                  - option "Finland"
+                  - option "France"
+                  - option "Gabon"
+                  - option "Gambia"
+                  - option "Georgia"
+                  - option "Germany"
+                  - option "Ghana"
+                  - option "Greece"
+                  - option "Grenada"
+                  - option "Guatemala"
+                  - option "Guinea"
+                  - option "Guinea-Bissau"
+                  - option "Guyana"
+                  - option "Haiti"
+                  - option "Honduras"
+                  - option "Hong Kong (SAR)"
+                  - option "Hungary"
+                  - option "Iceland"
+                  - option "India"
+                  - option "Indonesia"
+                  - option "Iran"
+                  - option "Iraq"
+                  - 'option "Ireland {Republic}"'
+                  - option "Israel"
+                  - option "Italy"
+                  - option "Ivory Coast"
+                  - option "Jamaica"
+                  - option "Japan"
+                  - option "Jordan"
+                  - option "Kazakhstan"
+                  - option "Kenya"
+                  - option "Kiribati"
+                  - option "Korea North"
+                  - option "Korea South"
+                  - option "Kosovo"
+                  - option "Kuwait"
+                  - option "Kyrgyzstan"
+                  - option "Laos"
+                  - option "Latvia"
+                  - option "Lebanon"
+                  - option "Lesotho"
+                  - option "Liberia"
+                  - option "Libya"
+                  - option "Liechtenstein"
+                  - option "Lithuania"
+                  - option "Luxembourg"
+                  - option "Macau (SAR)"
+                  - option "Macedonia"
+                  - option "Madagascar"
+                  - option "Malawi"
+                  - option "Malaysia"
+                  - option "Maldives"
+                  - option "Mali"
+                  - option "Malta"
+                  - option "Marshall Islands"
+                  - option "Mauritania"
+                  - option "Mauritius"
+                  - option "Mexico"
+                  - option "Micronesia"
+                  - option "Moldova"
+                  - option "Monaco"
+                  - option "Mongolia"
+                  - option "Montenegro"
+                  - option "Morocco"
+                  - option "Mozambique"
+                  - 'option "Myanmar, {Burma}"'
+                  - option "Namibia"
+                  - option "Nauru"
+                  - option "Nepal"
+                  - option "Netherlands"
+                  - option "New Zealand"
+                  - option "Nicaragua"
+                  - option "Niger"
+                  - option "Nigeria"
+                  - option "Norway"
+                  - option "Oman"
+                  - option "Pakistan"
+                  - option "Palau"
+                  - option "Panama"
+                  - option "Papua New Guinea"
+                  - option "Paraguay"
+                  - option "Peru"
+                  - option "Philippines"
+                  - option "Poland"
+                  - option "Portugal"
+                  - option "Qatar"
+                  - option "Romania"
+                  - option "Russian Federation"
+                  - option "Rwanda"
+                  - option "St Kitts & Nevis"
+                  - option "St Lucia"
+                  - option "Saint Vincent & the Grenadines"
+                  - option "Samoa"
+                  - option "San Marino"
+                  - option "Sao Tome & Principe"
+                  - option "Saudi Arabia"
+                  - option "Senegal"
+                  - option "Serbia"
+                  - option "Seychelles"
+                  - option "Sierra Leone"
+                  - option "Singapore"
+                  - option "Slovakia"
+                  - option "Slovenia"
+                  - option "Solomon Islands"
+                  - option "Somalia"
+                  - option "South Africa"
+                  - option "South Sudan"
+                  - option "Spain"
+                  - option "Sri Lanka"
+                  - option "Sudan"
+                  - option "Suriname"
+                  - option "Swaziland"
+                  - option "Sweden"
+                  - option "Switzerland"
+                  - option "Syria"
+                  - option "Taiwan"
+                  - option "Tajikistan"
+                  - option "Tanzania"
+                  - option "Thailand"
+                  - option "Togo"
+                  - option "Tonga"
+                  - option "Trinidad & Tobago"
+                  - option "Tunisia"
+                  - option "Turkey"
+                  - option "Turkmenistan"
+                  - option "Tuvalu"
+                  - option "Uganda"
+                  - option "Ukraine"
+                  - option "United Arab Emirates"
+                  - option "Uruguay"
+                  - option "Uzbekistan"
+                  - option "Vanuatu"
+                  - option "Vatican City"
+                  - option "Venezuela"
+                  - option "Vietnam"
+                  - option "Yemen"
+                  - option "Zambia"
+                  - option "Zimbabwe"
+                  - option
+            - generic [ref=e830]:
+              - generic [ref=e831]: Why did you decide to visit Fortnum's today?
+              - generic [ref=e833]:
+                - generic [ref=e835]: 
+                - combobox "Why did you decide to visit Fortnum's today?" [ref=e836] [cursor=pointer]:
+                  - option "Please select..." [selected]
+                  - option "Shopping for myself"
+                  - option "Shopping for gifts"
+                  - option "Hosting for Family & Friends"
+                  - option "Dining in the restaurant"
+                  - option "Attending an event in store"
+            - generic [ref=e838]:
+              - button "Sign Up" [disabled]:
+                - generic: Sign Up
+          - paragraph [ref=e1104]:
+            - text: For more details about how we use your information please see our
+            - link "Privacy Policy" [ref=e1106] [cursor=pointer]:
+              - /url: https://www.fortnumandmason.com/privacy-policy
+            - text: .
+        - generic [ref=e847]:
+          - generic [ref=e848]:
+            - list [ref=e849]:
+              - listitem [ref=e850]:
+                - button "Our Stores" [ref=e851] [cursor=pointer]:
+                  - generic [ref=e852]: Our Stores
+                - list [ref=e853]:
+                  - listitem [ref=e854]:
+                    - link "Piccadilly" [ref=e1107] [cursor=pointer]:
+                      - /url: /piccadilly
+                  - listitem [ref=e856]:
+                    - link "St Pancras International" [ref=e1108] [cursor=pointer]:
+                      - /url: /st-pancras
+                  - listitem [ref=e858]:
+                    - link "The Royal Exchange" [ref=e1109] [cursor=pointer]:
+                      - /url: /the-royal-exchange-london
+                  - listitem [ref=e860]:
+                    - link "Bicester Village" [ref=e1110] [cursor=pointer]:
+                      - /url: /bicester-village
+                  - listitem [ref=e862]:
+                    - link "Heathrow T5" [ref=e1111] [cursor=pointer]:
+                      - /url: /heathrow-t5
+                  - listitem [ref=e864]:
+                    - link "Heathrow T4" [ref=e1112] [cursor=pointer]:
+                      - /url: /heathrow-t4
+                  - listitem [ref=e866]:
+                    - link "Canary Wharf" [ref=e1113] [cursor=pointer]:
+                      - /url: /canary-wharf
+                  - listitem [ref=e868]:
+                    - link "Worldwide Stockists" [ref=e1114] [cursor=pointer]:
+                      - /url: /worldwide-stockists
+              - listitem [ref=e870]:
+                - button "Experiences" [ref=e871] [cursor=pointer]:
+                  - generic [ref=e872]: Experiences
+                - list [ref=e873]:
+                  - listitem [ref=e874]:
+                    - link "Afternoon Tea" [ref=e1115] [cursor=pointer]:
+                      - /url: /afternoon-tea
+                  - listitem [ref=e876]:
+                    - link "Restaurants" [ref=e1116] [cursor=pointer]:
+                      - /url: /restaurants
+                  - listitem [ref=e878]:
+                    - link "Events" [ref=e1117] [cursor=pointer]:
+                      - /url: /third-floor-events
+                  - listitem [ref=e880]:
+                    - link "Personalised Gifts" [ref=e1118] [cursor=pointer]:
+                      - /url: /gifts-occasions/gifting-ideas/personalised-gifts
+                  - listitem [ref=e882]:
+                    - link "Seasonal Events" [ref=e1119] [cursor=pointer]:
+                      - /url: /seasonal-events-category
+              - listitem [ref=e884]:
+                - button "Services" [ref=e885] [cursor=pointer]:
+                  - generic [ref=e886]: Services
+                - list [ref=e887]:
+                  - listitem [ref=e888]:
+                    - link "Membership" [ref=e1120] [cursor=pointer]:
+                      - /url: /membership
+                  - listitem [ref=e890]:
+                    - link "Corporate Gifting" [ref=e1121] [cursor=pointer]:
+                      - /url: /corporate-gifting
+                  - listitem [ref=e892]:
+                    - link "Personal Shopping" [ref=e1122] [cursor=pointer]:
+                      - /url: /personal-shopping
+                  - listitem [ref=e894]:
+                    - link "Private Dining" [ref=e1123] [cursor=pointer]:
+                      - /url: /private-dining
+                  - listitem [ref=e896]:
+                    - link "Weddings" [ref=e1124] [cursor=pointer]:
+                      - /url: /weddings
+                  - listitem [ref=e898]:
+                    - link "Concierge" [ref=e1125] [cursor=pointer]:
+                      - /url: /corporate-gifting
+                  - listitem [ref=e900]:
+                    - link "Gift Cards" [ref=e1126] [cursor=pointer]:
+                      - /url: /gifts-occasions/gifting-ideas/gift-cards
+                  - listitem [ref=e902]:
+                    - link "商店指南" [ref=e1127] [cursor=pointer]:
+                      - /url: /china
+                  - listitem [ref=e904]:
+                    - link "Product Recalls" [ref=e1128] [cursor=pointer]:
+                      - /url: /product-recalls
+              - listitem [ref=e906]:
+                - button "Shopping Online" [ref=e907] [cursor=pointer]:
+                  - generic [ref=e908]: Shopping Online
+                - list [ref=e909]:
+                  - listitem [ref=e910]:
+                    - link "Returns Policy" [ref=e1129] [cursor=pointer]:
+                      - /url: /delivery-information
+                  - listitem [ref=e912]:
+                    - link "Returns Portal" [ref=e1130] [cursor=pointer]:
+                      - /url: https://returns.narvar.com/fortnumandmason/returns?locale=en_GB
+                  - listitem [ref=e914]:
+                    - link "Delivery Information" [ref=e1131] [cursor=pointer]:
+                      - /url: /delivery-information
+                  - listitem [ref=e916]:
+                    - link "International Delivery" [ref=e1132] [cursor=pointer]:
+                      - /url: /international-delivery-category
+                  - listitem [ref=e918]:
+                    - link "Click and Collect" [ref=e1133] [cursor=pointer]:
+                      - /url: /delivery-information
+                  - listitem [ref=e920]:
+                    - link "Track my Order" [ref=e1134] [cursor=pointer]:
+                      - /url: /delivery-information
+                  - listitem [ref=e922]:
+                    - link "Gift Card Balance Checker" [ref=e1135] [cursor=pointer]:
+                      - /url: https://wwws-uk1.givex.com/merchant_balcheck/6604_en/
+              - listitem [ref=e924]:
+                - button "More Information" [ref=e925] [cursor=pointer]:
+                  - generic [ref=e926]: More Information
+                - list [ref=e927]:
+                  - listitem [ref=e928]:
+                    - link "Stories" [ref=e1136] [cursor=pointer]:
+                      - /url: /stories
+                  - listitem [ref=e930]:
+                    - link "Contact Us" [ref=e1137] [cursor=pointer]:
+                      - /url: https://support.fortnumandmason.com/hc/en-gb/requests/new
+                  - listitem [ref=e932]:
+                    - link "FAQs" [ref=e1138] [cursor=pointer]:
+                      - /url: https://support.fortnumandmason.com/hc/en-gb
+                  - listitem [ref=e934]:
+                    - link "Our Stores" [ref=e1139] [cursor=pointer]:
+                      - /url: /our-stores
+                  - listitem [ref=e936]:
+                    - link "Our History" [ref=e1140] [cursor=pointer]:
+                      - /url: /our-history
+                  - listitem [ref=e938]:
+                    - link "Careers at Fortnum's" [ref=e1141] [cursor=pointer]:
+                      - /url: https://careers.fortnumandmason.com/
+                  - listitem [ref=e940]:
+                    - link "Sustainability" [ref=e1142] [cursor=pointer]:
+                      - /url: /future-matters
+                  - listitem [ref=e942]:
+                    - link "Charitable Giving" [ref=e1143] [cursor=pointer]:
+                      - /url: /charitable-giving
+                  - listitem [ref=e944]:
+                    - link "Press Office" [ref=e1144] [cursor=pointer]:
+                      - /url: /press-office
+              - listitem [ref=e946]:
+                - button "Follow @Fortnums" [ref=e947] [cursor=pointer]:
+                  - generic [ref=e948]: Follow @Fortnums
+                - list [ref=e949]:
+                  - listitem [ref=e950]:
+                    - link " Facebook" [ref=e1145] [cursor=pointer]:
+                      - /url: https://www.facebook.com/fortnums
+                      - generic [ref=e1146]: 
+                      - generic [ref=e1147]: Facebook
+                  - listitem [ref=e954]:
+                    - link " Instagram" [ref=e1148] [cursor=pointer]:
+                      - /url: https://instagram.com/fortnums
+                      - generic [ref=e1149]: 
+                      - generic [ref=e1150]: Instagram
+                  - listitem [ref=e958]:
+                    - link " Pinterest" [ref=e1151] [cursor=pointer]:
+                      - /url: https://www.pinterest.com/fortnums/
+                      - generic [ref=e1152]: 
+                      - generic [ref=e1153]: Pinterest
+                  - listitem [ref=e962]:
+                    - link " YouTube" [ref=e1154] [cursor=pointer]:
+                      - /url: https://www.youtube.com/@Fortnums
+                      - generic [ref=e1155]: 
+                      - generic [ref=e1156]: YouTube
+                  - listitem [ref=e966]:
+                    - link " TikTok" [ref=e1157] [cursor=pointer]:
+                      - /url: https://www.tiktok.com/@fortnums?lang=en
+                      - generic [ref=e1158]: 
+                      - generic [ref=e1159]: TikTok
+                  - listitem [ref=e970]:
+                    - link " Linkedin" [ref=e1160] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/fortnum-&-mason
+                      - generic [ref=e1161]: 
+                      - generic [ref=e1162]: Linkedin
+            - generic [ref=e980]:
+              - figure [ref=e982]:
+                - img "Content image" [ref=e984]
+              - paragraph [ref=e1163]:
+                - text: Unwrap a year of delicious discoveries - £100 per year Membership
+                - strong [ref=e1164]:
+                  - link "Find out more" [ref=e1166] [cursor=pointer]:
+                    - /url: https://www.fortnumandmason.com/membership
+          - generic [ref=e992]:
+            - list [ref=e993]:
+              - listitem [ref=e994]:
+                - link "Terms & Conditions" [ref=e1167] [cursor=pointer]:
+                  - /url: /terms-and-conditions
+              - listitem [ref=e996]:
+                - link "Terms of Use" [ref=e1168] [cursor=pointer]:
+                  - /url: /terms-of-use
+              - listitem [ref=e998]:
+                - link "Privacy Policy" [ref=e1169] [cursor=pointer]:
+                  - /url: /privacy-policy
+              - listitem [ref=e1000]:
+                - link "Cookie Policy" [ref=e1170] [cursor=pointer]:
+                  - /url: /cookie-policy
+              - listitem [ref=e1002]:
+                - link "Cookie Settings" [ref=e1171] [cursor=pointer]:
+                  - /url: https://www.fortnumandmason.com/cookie-settings
+              - listitem [ref=e1004]:
+                - link "Accessibility" [ref=e1172] [cursor=pointer]:
+                  - /url: /accessibility-statement
+            - button "Switch country and currency" [ref=e1007] [cursor=pointer]:
+              - generic [ref=e1010]: MA /
+              - generic [ref=e1012]: £ GBP
+        - generic [ref=e1013]: © Fortnum & Mason 2026 All Rights Reserved
