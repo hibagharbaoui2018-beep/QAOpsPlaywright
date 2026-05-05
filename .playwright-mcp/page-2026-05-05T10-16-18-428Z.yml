@@ -1,0 +1,866 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - textbox
+  - generic [ref=e2]:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#main-content"
+    - link "Skip to menu" [ref=e4] [cursor=pointer]:
+      - /url: "#menu"
+    - link "Skip to footer" [ref=e5] [cursor=pointer]:
+      - /url: "#footer"
+  - generic [ref=e7]:
+    - banner [ref=e8]:
+      - generic [ref=e1021]:
+        - generic [ref=e1022]:
+          - text: Morocco
+          - generic [ref=e1024]: Shipping to a different country?
+          - button [ref=e1025] [cursor=pointer]: Change destination
+        - generic [ref=e1026] [cursor=pointer]: 
+      - generic [ref=e10]:
+        - button "Switch country and currency" [ref=e12] [cursor=pointer]:
+          - generic [ref=e15]: MA /
+          - generic [ref=e17]: £ GBP
+        - link "Royal Warrants" [ref=e19] [cursor=pointer]:
+          - /url: /stories/fortnums-royal-warrants
+          - img "Royal Warrants" [ref=e21]
+        - link "F&M Logo" [ref=e23] [cursor=pointer]:
+          - /url: /
+          - img "F&M Logo" [ref=e24]
+        - generic [ref=e26]:
+          - generic [ref=e31]:
+            - textbox "Search products" [ref=e32]:
+              - /placeholder: Search products..
+            - button "Search button" [ref=e33] [cursor=pointer]:
+              - generic [ref=e34]: 
+          - generic [ref=e35] [cursor=pointer]:
+            - button "Membership information" [ref=e37]:
+              - img "membership information" [ref=e39]
+            - generic [ref=e40]:
+              - button "Login" [ref=e41]
+              - text:   
+          - button "Wishlist" [ref=e43] [cursor=pointer]
+          - button "Shopping Basket" [ref=e45] [cursor=pointer]
+      - navigation [ref=e46]:
+        - menu [ref=e47]:
+          - menuitem "New In" [ref=e48]:
+            - link "New In" [ref=e51] [cursor=pointer]:
+              - /url: /new-in
+          - menuitem "Hampers" [expanded] [ref=e52]:
+            - link "Hampers" [active] [ref=e55] [cursor=pointer]:
+              - /url: /hampers-category
+            - generic [ref=e1029]:
+              - generic [ref=e1034]:
+                - generic [ref=e1036]:
+                  - figure [ref=e1038]:
+                    - link "Content image" [ref=e1039] [cursor=pointer]:
+                      - /url: /hampers/all-hampers
+                      - img "Content image" [ref=e1040]
+                  - link "Shop All Hampers" [ref=e1042] [cursor=pointer]:
+                    - /url: /hampers/all-hampers
+                - generic [ref=e1044]:
+                  - figure [ref=e1046]:
+                    - link "Content image" [ref=e1047] [cursor=pointer]:
+                      - /url: /hampers/gift-boxes
+                      - img "Content image" [ref=e1048]
+                  - link "Shop Gift Boxes" [ref=e1050] [cursor=pointer]:
+                    - /url: /hampers/gift-boxes
+                - generic [ref=e1052]:
+                  - figure [ref=e1054]:
+                    - link "Content image" [ref=e1055] [cursor=pointer]:
+                      - /url: /the-springtime-hamper
+                      - img "Content image" [ref=e1056]
+                  - 'link "NEW: The Springtime Hamper" [ref=e1058] [cursor=pointer]':
+                    - /url: /the-springtime-hamper
+                - generic [ref=e1060]:
+                  - figure [ref=e1062]:
+                    - link "Content image" [ref=e1063] [cursor=pointer]:
+                      - /url: /the-thank-you-hamper
+                      - img "Content image" [ref=e1064]
+                  - 'link "BESTSELLER: The Thank You Hamper" [ref=e1066] [cursor=pointer]':
+                    - /url: /the-thank-you-hamper
+              - generic [ref=e1067]:
+                - generic [ref=e1068]:
+                  - link "Shop All Hampers" [ref=e1070] [cursor=pointer]:
+                    - /url: /hampers/all-hampers
+                  - list [ref=e1071]:
+                    - listitem [ref=e1072]:
+                      - link "Food Hampers" [ref=e1074] [cursor=pointer]:
+                        - /url: /hampers/all-hampers/food-hampers
+                    - listitem [ref=e1075]:
+                      - link "Wine Hampers" [ref=e1077] [cursor=pointer]:
+                        - /url: /hampers/all-hampers/wine-hampers
+                    - listitem [ref=e1078]:
+                      - link "Create your own Hamper" [ref=e1080] [cursor=pointer]:
+                        - /url: /create-your-own-hamper
+                    - listitem [ref=e1081]:
+                      - link "Tea & Afternoon Tea Hampers" [ref=e1083] [cursor=pointer]:
+                        - /url: /hampers/all-hampers/tea-hampers
+                    - listitem [ref=e1084]:
+                      - link "Showstopper Hampers" [ref=e1086] [cursor=pointer]:
+                        - /url: /hampers/gift-hampers/showstopper-hampers
+                    - listitem [ref=e1087]:
+                      - link "Alcohol-Free Hampers & Gift Boxes" [ref=e1089] [cursor=pointer]:
+                        - /url: /hampers/all-hampers/alcohol-free-hampers-gift-boxes
+                    - listitem [ref=e1090]:
+                      - link "Picnic Hampers" [ref=e1092] [cursor=pointer]:
+                        - /url: /seasonal-events/picnic/hampers
+                    - listitem [ref=e1093]:
+                      - link "Gift Boxes" [ref=e1095] [cursor=pointer]:
+                        - /url: /hampers/gift-boxes
+                    - listitem
+                - generic [ref=e1096]:
+                  - link "Shop Hampers by Occasion" [ref=e1098] [cursor=pointer]:
+                    - /url: /hampers/gift-hampers
+                  - list [ref=e1099]:
+                    - listitem [ref=e1100]:
+                      - link "Birthdays" [ref=e1102] [cursor=pointer]:
+                        - /url: /hampers/gift-hampers/hampers-for-birthdays
+                    - listitem [ref=e1103]:
+                      - link "Anniversaries & Weddings" [ref=e1105] [cursor=pointer]:
+                        - /url: /hampers/gift-hampers/hampers-for-weddings
+                    - listitem [ref=e1106]:
+                      - link "Thank You" [ref=e1108] [cursor=pointer]:
+                        - /url: /hampers/gift-hampers/hampers-for-thank-you
+                    - listitem [ref=e1109]:
+                      - link "Housewarming" [ref=e1111] [cursor=pointer]:
+                        - /url: /hampers/gift-hampers/hampers-for-home
+                    - listitem [ref=e1112]:
+                      - link "Thinking of You" [ref=e1114] [cursor=pointer]:
+                        - /url: /hampers/gift-hampers/hampers-for-thinking-of-you
+                    - listitem [ref=e1115]:
+                      - link "Corporate Hampers" [ref=e1117] [cursor=pointer]:
+                        - /url: /hampers/all-hampers/corporate-hampers
+                    - listitem
+                - generic [ref=e1118]:
+                  - link "Shop Hampers by Price" [ref=e1120] [cursor=pointer]:
+                    - /url: /hampers/hampers-by-price-point
+                  - list [ref=e1121]:
+                    - listitem [ref=e1122]:
+                      - link "Under £150" [ref=e1124] [cursor=pointer]:
+                        - /url: /hampers/hampers-by-price-point/under-150
+                    - listitem [ref=e1125]:
+                      - link "Under £250" [ref=e1127] [cursor=pointer]:
+                        - /url: /hampers/hampers-by-price-point/under-250
+                    - listitem [ref=e1128]:
+                      - link "Under £500" [ref=e1130] [cursor=pointer]:
+                        - /url: /hampers/hampers-by-price-point/under-500
+                    - listitem [ref=e1131]:
+                      - link "Over £1000" [ref=e1133] [cursor=pointer]:
+                        - /url: /hampers/hampers-by-price-point/over-1000
+                    - listitem
+                - generic [ref=e1134]:
+                  - link "Shop Hampers for International Delivery" [ref=e1136] [cursor=pointer]:
+                    - /url: /hampers/hampers-for-export
+                  - list [ref=e1137]:
+                    - listitem [ref=e1138]:
+                      - link "Hampers for USA & Canada" [ref=e1140] [cursor=pointer]:
+                        - /url: /hampers/hampers-for-export/hampers-for-us
+                    - listitem [ref=e1141]:
+                      - link "Hampers for Australia & New Zealand" [ref=e1143] [cursor=pointer]:
+                        - /url: /hampers/hampers-for-export/hampers-for-australia-new-zealand
+                    - listitem [ref=e1144]:
+                      - link "Hampers for Worldwide Delivery" [ref=e1146] [cursor=pointer]:
+                        - /url: /hampers/hampers-for-export/hampers-for-worldwide
+                    - listitem
+          - menuitem "Picnic" [ref=e56]:
+            - link "Picnic" [ref=e59] [cursor=pointer]:
+              - /url: /seasonal-events/picnic
+          - menuitem "Gifts" [ref=e60]:
+            - link "Gifts" [ref=e63] [cursor=pointer]:
+              - /url: /gifts-occasions-category
+          - menuitem "Food Hall" [ref=e64]:
+            - link "Food Hall" [ref=e67] [cursor=pointer]:
+              - /url: /food-hall
+          - menuitem "Wine & Spirits" [ref=e68]:
+            - link "Wine & Spirits" [ref=e71] [cursor=pointer]:
+              - /url: /wine-spirits
+          - menuitem "Tea & Coffee" [ref=e72]:
+            - link "Tea & Coffee" [ref=e75] [cursor=pointer]:
+              - /url: /tea-coffee
+          - menuitem "Biscuits & Chocolate" [ref=e76]:
+            - link "Biscuits & Chocolate" [ref=e79] [cursor=pointer]:
+              - /url: /biscuits-chocolates
+          - menuitem "Home & Kitchen" [ref=e80]:
+            - link "Home & Kitchen" [ref=e83] [cursor=pointer]:
+              - /url: /homeware
+          - menuitem "Beauty & Accessories" [ref=e84]:
+            - link "Beauty & Accessories" [ref=e87] [cursor=pointer]:
+              - /url: /beauty-accessories
+          - menuitem "Visit Fortnum's" [ref=e88]:
+            - link "Visit Fortnum's" [ref=e91] [cursor=pointer]:
+              - /url: /our-stores
+    - generic [ref=e93]:
+      - generic [ref=e96]:
+        - link "Just arrived at Fortnum's! Shop New In" [ref=e99] [cursor=pointer]:
+          - /url: /new-in
+        - button "Close" [ref=e101] [cursor=pointer]: 
+      - generic [ref=e1150]:
+        - link "Receive a £10 a e-gift card when you buy any Fortnum’s hamper >" [ref=e1153] [cursor=pointer]:
+          - /url: /hampers/all-hampers
+        - button "Close" [ref=e1155] [cursor=pointer]: 
+      - generic [ref=e1159]:
+        - img "banner image" [ref=e1160]
+        - link "Enjoy unlimited next day UK delivery with Membership" [ref=e1162] [cursor=pointer]:
+          - /url: /membership
+        - button "Learn More" [ref=e1164] [cursor=pointer]
+      - generic [ref=e1167]:
+        - link "Just arrived at Fortnum's! Shop New In" [ref=e1170] [cursor=pointer]:
+          - /url: /new-in
+        - button "Close" [ref=e1172] [cursor=pointer]: 
+    - generic [ref=e102]:
+      - generic [ref=e104]:
+        - generic [ref=e1174]:
+          - link "Home" [ref=e1175] [cursor=pointer]:
+            - /url: /
+          - text: /Hampers
+        - article [ref=e1176]:
+          - generic [ref=e1179]:
+            - heading "It Can Only Be a Fortnum's Hamper!" [level=1] [ref=e1181]:
+              - generic [ref=e1182]:
+                - generic [ref=e1183]: It Can Only Be a Fortnum's
+                - text: Hamper!
+            - paragraph [ref=e1185]:
+              - generic [ref=e1186]: Always filled from bottom-to-brim with carefully curated items from across our Piccadilly store, every Fortnum's hamper is created by our resident experts. Whatever the occasion, look no further for the perfect wicker-bound gift
+          - generic [ref=e1194]:
+            - heading "Shop Fortnum's Hampers By Category" [level=2] [ref=e1195]
+            - generic [ref=e1196]:
+              - link "All Hampers" [ref=e1198] [cursor=pointer]:
+                - /url: /hampers/all-hampers
+                - generic [ref=e1201]: All Hampers
+              - link "Wine Hampers" [ref=e1203] [cursor=pointer]:
+                - /url: hampers/all-hampers/wine-hampers
+                - generic [ref=e1206]: Wine Hampers
+              - link "Easter & Spring Hampers" [ref=e1208] [cursor=pointer]:
+                - /url: /seasonal-events/easter/hampers
+                - generic [ref=e1211]: Easter & Spring Hampers
+              - link "Create Your Own Hamper" [ref=e1213] [cursor=pointer]:
+                - /url: /create-your-own-hamper
+                - generic [ref=e1216]: Create Your Own Hamper
+              - link "Gift Boxes" [ref=e1218] [cursor=pointer]:
+                - /url: /hampers/gift-boxes
+                - generic [ref=e1221]: Gift Boxes
+              - link "Tea Hampers" [ref=e1223] [cursor=pointer]:
+                - /url: /hampers/all-hampers/tea-hampers
+                - generic [ref=e1226]: Tea Hampers
+              - link "Birthday Hampers" [ref=e1228] [cursor=pointer]:
+                - /url: /hampers/gift-hampers/hampers-for-birthdays
+                - generic [ref=e1231]: Birthday Hampers
+              - link "Thank You Hamper" [ref=e1233] [cursor=pointer]:
+                - /url: /hampers/gift-hampers/hampers-for-thank-you
+                - generic [ref=e1236]: Thank You Hamper
+              - link "Wedding & Anniversary" [ref=e1238] [cursor=pointer]:
+                - /url: /hampers/gift-hampers/hampers-for-weddings
+                - generic [ref=e1241]: Wedding & Anniversary
+          - generic [ref=e1245]:
+            - generic [ref=e1250]:
+              - separator [ref=e1253]
+              - heading "NEW IN" [level=2] [ref=e1256]:
+                - generic [ref=e1257]: NEW IN
+              - separator [ref=e1260]
+            - figure [ref=e1267]:
+              - link "Content image" [ref=e1268] [cursor=pointer]:
+                - /url: /new-in
+                - img "Content image" [ref=e1270]
+          - generic [ref=e1279]:
+            - figure [ref=e1281]:
+              - link "Content image" [ref=e1282] [cursor=pointer]:
+                - /url: /hampers/all-hampers
+                - img "Content image" [ref=e1284]
+            - paragraph [ref=e1287]:
+              - link "SHOP ALL HAMPERS" [ref=e1289] [cursor=pointer]:
+                - /url: https://www.fortnumandmason.com/hampers/all-hampers
+                - generic [ref=e1290]: SHOP ALL HAMPERS
+            - figure [ref=e1292]:
+              - link "Content image" [ref=e1293] [cursor=pointer]:
+                - /url: /hampers/all-hampers
+                - img "Content image" [ref=e1295]
+          - generic [ref=e1304]:
+            - figure [ref=e1306]:
+              - link "Content image" [ref=e1307] [cursor=pointer]:
+                - /url: /create-your-own-hamper
+                - img "Content image" [ref=e1309]
+            - figure [ref=e1311]:
+              - link "Content image" [ref=e1312] [cursor=pointer]:
+                - /url: /create-your-own-hamper
+                - img "Content image" [ref=e1314]
+          - generic [ref=e1318]:
+            - heading "Hampers For Every Moment or Occasion" [level=2] [ref=e1323]:
+              - generic [ref=e1325]:
+                - text: Hampers For Every
+                - generic [ref=e1326]:
+                  - text: Moment
+                  - generic [ref=e1327]: or Occasion
+            - generic [ref=e1332]:
+              - figure [ref=e1334]:
+                - link "Birthday Hampers" [ref=e1335] [cursor=pointer]:
+                  - /url: /hampers/gift-hampers/hampers-for-birthdays
+                  - img "Birthday Hampers" [ref=e1337]
+              - figure [ref=e1339]:
+                - link "Corporate Hampers" [ref=e1340] [cursor=pointer]:
+                  - /url: /hampers/all-hampers/corporate-hampers
+                  - img "Corporate Hampers" [ref=e1342]
+              - figure [ref=e1344]:
+                - link "Christmas Hampers" [ref=e1345] [cursor=pointer]:
+                  - /url: /gifts-occasions/occasions/baby
+                  - img "Christmas Hampers" [ref=e1347]
+            - generic [ref=e1352]:
+              - figure [ref=e1354]:
+                - link "Thank You Hampers" [ref=e1355] [cursor=pointer]:
+                  - /url: https://www.fortnumandmason.com/seasonal-events/easter/hampers
+                  - img "Thank You Hampers" [ref=e1357]
+              - figure [ref=e1359]:
+                - link "Housewarming Hampers" [ref=e1360] [cursor=pointer]:
+                  - /url: /gifts-occasions/occasions/housewarming
+                  - img "Housewarming Hampers" [ref=e1362]
+              - figure [ref=e1364]:
+                - link "Wedding Anniversary Hampers" [ref=e1365] [cursor=pointer]:
+                  - /url: /gifts-occasions/occasions/weddings/wedding-anniversary-gifts
+                  - img "Wedding Anniversary Hampers" [ref=e1367]
+          - generic [ref=e1371]:
+            - generic [ref=e1376]:
+              - separator [ref=e1379]
+              - heading "HAMPERS BY PRICE" [level=2] [ref=e1382]:
+                - generic [ref=e1383]: HAMPERS BY PRICE
+              - separator [ref=e1386]
+            - generic [ref=e1391]:
+              - figure [ref=e1393]:
+                - link "Content image" [ref=e1394] [cursor=pointer]:
+                  - /url: /hampers/hampers-by-price-point/under-100
+                  - img "Content image" [ref=e1396]
+              - figure [ref=e1398]:
+                - link "Content image" [ref=e1399] [cursor=pointer]:
+                  - /url: /hampers/hampers-by-price-point/under-250
+                  - img "Content image" [ref=e1401]
+              - figure [ref=e1403]:
+                - link "Content image" [ref=e1404] [cursor=pointer]:
+                  - /url: /hampers/hampers-by-price-point/under-500
+                  - img "Content image" [ref=e1406]
+              - figure [ref=e1408]:
+                - link "Content image" [ref=e1409] [cursor=pointer]:
+                  - /url: /hampers/hampers-by-price-point/over-1000
+                  - img "Content image" [ref=e1411]
+          - heading "Fortnum's Bestselling Hampers" [level=2] [ref=e1420]:
+            - generic [ref=e1421]: Fortnum's Bestselling Hampers
+          - generic [ref=e1430]:
+            - figure [ref=e1432]:
+              - link "Content image" [ref=e1433] [cursor=pointer]:
+                - /url: /hampers/hampers-for-export/hampers-for-worldwide
+                - img "Content image" [ref=e1435]
+            - paragraph [ref=e1438]:
+              - link "SHOP HAMPERS FOR WORLDWIDE DELIVERY" [ref=e1439] [cursor=pointer]:
+                - /url: https://www.fortnumandmason.com/hampers/hampers-for-export/hampers-for-worldwide
+                - generic [ref=e1440]: SHOP HAMPERS FOR WORLDWIDE DELIVERY
+            - figure [ref=e1442]:
+              - link "Content image" [ref=e1443] [cursor=pointer]:
+                - /url: /hampers/hampers-for-export/hampers-for-worldwide
+                - img "Content image" [ref=e1445]
+          - generic [ref=e1452]:
+            - heading "Four Reasons to Love a Fortnum’s Hamper" [level=2] [ref=e1453]
+            - link "Shop All Hampers " [ref=e1456] [cursor=pointer]:
+              - /url: /hampers/all-hampers
+            - generic [ref=e1458]:
+              - generic [ref=e1459]:
+                - figure [ref=e1460]:
+                  - img "Content image" [ref=e1462]
+                - paragraph [ref=e1464]:
+                  - generic [ref=e1465]: Historically Extraordinary
+                - paragraph [ref=e1467]: The original parcel of joy, we filled our first hamper in the 1730s — and three centuries later, they’re still the world’s finest.
+              - generic [ref=e1468]:
+                - figure [ref=e1469]:
+                  - img "Content image" [ref=e1471]
+                - paragraph [ref=e1473]: Deliciously Generous
+                - paragraph [ref=e1475]: Expertly curated to surprise and delight, the price of every Fortnum’s hamper is always less than the cost of buying its basket and contents separately.
+              - generic [ref=e1476]:
+                - figure [ref=e1477]:
+                  - img "Content image" [ref=e1479]
+                - paragraph [ref=e1481]: Forever Ready
+                - paragraph [ref=e1483]: Beautifully made and built to last, our wickers can be repurposed into just about anything your imagination can conceive.
+              - generic [ref=e1484]:
+                - figure [ref=e1485]:
+                  - img "Content image" [ref=e1487]
+                - paragraph [ref=e1489]: The Best Gift
+                - paragraph [ref=e1491]: For centuries, our hampers have made happy occasions and landmark moments all the more memorable. No other present can possibly compare!
+          - generic [ref=e1496]:
+            - figure [ref=e1501]:
+              - iframe [ref=e1503]:
+                
+            - generic [ref=e1504]:
+              - heading "Our Parcels of Joy" [level=2] [ref=e1506]
+              - paragraph [ref=e1508]: The buckles. The straps. The handle. The lid. The expertly-stencilled monogram. Those simple ingredients - and the delicious things that make it inside each hamper too - are what make ours the most extraordinary in the world. All of our wicker is hand-woven from willow too, a naturally sustainable material that regrows once harvested.
+          - generic [ref=e1516]:
+            - generic [ref=e1518]:
+              - heading "Our Hamper Stories" [level=2] [ref=e1519]:
+                - generic [ref=e1521]: Our Hamper Stories
+              - paragraph [ref=e1522]: Instantly recognisable and treasured all over the world, our expertly crafted hampers have played a key role in the story of Fortnum's. Lift the lid on the latest about our beloved parcels of joy.
+            - generic [ref=e1523]:
+              - generic [ref=e1525]:
+                - figure [ref=e1526]:
+                  - link "Content image":
+                    - /url: /stories/history-of-the-hamper
+                    - generic:
+                      - img "Content image"
+                - paragraph [ref=e1528]:
+                  - generic [ref=e1529]: History of the Hamper
+                - paragraph [ref=e1531]: Fortnum’s first hampers were created in the late 1730s for well-heeled customers journeying to their country estates. Now? They're a by-word for portable pleasure, enjoyed across the globe. Disover more about their story.
+                - link "Read more " [ref=e1534] [cursor=pointer]:
+                  - /url: https://www.fortnumandmason.com/stories/history-of-the-hamper
+              - generic [ref=e1536]:
+                - figure [ref=e1537]:
+                  - link "Content image" [ref=e1538] [cursor=pointer]:
+                    - /url: /stories/recycle-joy
+                    - img "Content image" [ref=e1540]
+                - paragraph [ref=e1542]: Our Wicker Recycling Service
+                - paragraph [ref=e1544]: Our wicker hampers are famed for being repurposed in ever imaginative ways, but if you find yourself with one wicker too many, then why not let us recycle it?
+                - link "Learn More " [ref=e1547] [cursor=pointer]:
+                  - /url: https://www.fortnumandmason.com/stories/recycle-joy
+              - generic [ref=e1549]:
+                - figure [ref=e1550]:
+                  - link "Content image" [ref=e1551] [cursor=pointer]:
+                    - /url: /stories/six-hamper-reasons
+                    - img "Content image" [ref=e1553]
+                - paragraph [ref=e1555]:
+                  - generic [ref=e1557]: Why We're the Home of the Hamper
+                - paragraph [ref=e1559]: Whether it’s for adventures far and wide or homes for your pups, there are many reasons. However, we found six of our favourites.
+                - link "Lift the Lid " [ref=e1562] [cursor=pointer]:
+                  - /url: https://www.fortnumandmason.com/stories/six-hamper-reasons
+      - contentinfo [ref=e815]:
+        - generic [ref=e816]:
+          - heading "Sign up to our newsletter" [level=2] [ref=e817]
+          - generic [ref=e818]:
+            - paragraph [ref=e820]: "Exciting news, exclusive events, & delicious products: subscribe to our emails to hear the latest from Fortnum's"
+            - textbox "Email" [ref=e821]:
+              - /placeholder: Enter your email
+          - generic:
+            - separator [ref=e822]
+            - generic [ref=e823]:
+              - generic [ref=e824]: Where do you live?
+              - generic [ref=e826]:
+                - generic [ref=e828]: 
+                - combobox "Where do you live?" [ref=e829] [cursor=pointer]:
+                  - option "Please select..." [selected]
+                  - option "United Kingdom"
+                  - option "United States"
+                  - option "Afghanistan"
+                  - option "Albania"
+                  - option "Algeria"
+                  - option "Andorra"
+                  - option "Angola"
+                  - option "Antigua & Deps"
+                  - option "Argentina"
+                  - option "Armenia"
+                  - option "Australia"
+                  - option "Austria"
+                  - option "Azerbaijan"
+                  - option "Bahamas"
+                  - option "Bahrain"
+                  - option "Bangladesh"
+                  - option "Barbados"
+                  - option "Belarus"
+                  - option "Belgium"
+                  - option "Belize"
+                  - option "Benin"
+                  - option "Bhutan"
+                  - option "Bolivia"
+                  - option "Bosnia Herzegovina"
+                  - option "Botswana"
+                  - option "Brazil"
+                  - option "Brunei"
+                  - option "Bulgaria"
+                  - option "Burkina"
+                  - option "Burundi"
+                  - option "Cambodia"
+                  - option "Cameroon"
+                  - option "Canada"
+                  - option "Cape Verde"
+                  - option "Central African Rep"
+                  - option "Chad"
+                  - option "Chile"
+                  - option "China (Mainland)"
+                  - option "Colombia"
+                  - option "Comoros"
+                  - option "Congo"
+                  - 'option "Congo {Democratic Rep}"'
+                  - option "Costa Rica"
+                  - option "Croatia"
+                  - option "Cuba"
+                  - option "Cyprus"
+                  - option "Czech Republic"
+                  - option "Denmark"
+                  - option "Djibouti"
+                  - option "Dominica"
+                  - option "Dominican Republic"
+                  - option "East Timor"
+                  - option "Ecuador"
+                  - option "Egypt"
+                  - option "El Salvador"
+                  - option "Equatorial Guinea"
+                  - option "Eritrea"
+                  - option "Estonia"
+                  - option "Ethiopia"
+                  - option "Fiji"
+                  - option "Finland"
+                  - option "France"
+                  - option "Gabon"
+                  - option "Gambia"
+                  - option "Georgia"
+                  - option "Germany"
+                  - option "Ghana"
+                  - option "Greece"
+                  - option "Grenada"
+                  - option "Guatemala"
+                  - option "Guinea"
+                  - option "Guinea-Bissau"
+                  - option "Guyana"
+                  - option "Haiti"
+                  - option "Honduras"
+                  - option "Hong Kong (SAR)"
+                  - option "Hungary"
+                  - option "Iceland"
+                  - option "India"
+                  - option "Indonesia"
+                  - option "Iran"
+                  - option "Iraq"
+                  - 'option "Ireland {Republic}"'
+                  - option "Israel"
+                  - option "Italy"
+                  - option "Ivory Coast"
+                  - option "Jamaica"
+                  - option "Japan"
+                  - option "Jordan"
+                  - option "Kazakhstan"
+                  - option "Kenya"
+                  - option "Kiribati"
+                  - option "Korea North"
+                  - option "Korea South"
+                  - option "Kosovo"
+                  - option "Kuwait"
+                  - option "Kyrgyzstan"
+                  - option "Laos"
+                  - option "Latvia"
+                  - option "Lebanon"
+                  - option "Lesotho"
+                  - option "Liberia"
+                  - option "Libya"
+                  - option "Liechtenstein"
+                  - option "Lithuania"
+                  - option "Luxembourg"
+                  - option "Macau (SAR)"
+                  - option "Macedonia"
+                  - option "Madagascar"
+                  - option "Malawi"
+                  - option "Malaysia"
+                  - option "Maldives"
+                  - option "Mali"
+                  - option "Malta"
+                  - option "Marshall Islands"
+                  - option "Mauritania"
+                  - option "Mauritius"
+                  - option "Mexico"
+                  - option "Micronesia"
+                  - option "Moldova"
+                  - option "Monaco"
+                  - option "Mongolia"
+                  - option "Montenegro"
+                  - option "Morocco"
+                  - option "Mozambique"
+                  - 'option "Myanmar, {Burma}"'
+                  - option "Namibia"
+                  - option "Nauru"
+                  - option "Nepal"
+                  - option "Netherlands"
+                  - option "New Zealand"
+                  - option "Nicaragua"
+                  - option "Niger"
+                  - option "Nigeria"
+                  - option "Norway"
+                  - option "Oman"
+                  - option "Pakistan"
+                  - option "Palau"
+                  - option "Panama"
+                  - option "Papua New Guinea"
+                  - option "Paraguay"
+                  - option "Peru"
+                  - option "Philippines"
+                  - option "Poland"
+                  - option "Portugal"
+                  - option "Qatar"
+                  - option "Romania"
+                  - option "Russian Federation"
+                  - option "Rwanda"
+                  - option "St Kitts & Nevis"
+                  - option "St Lucia"
+                  - option "Saint Vincent & the Grenadines"
+                  - option "Samoa"
+                  - option "San Marino"
+                  - option "Sao Tome & Principe"
+                  - option "Saudi Arabia"
+                  - option "Senegal"
+                  - option "Serbia"
+                  - option "Seychelles"
+                  - option "Sierra Leone"
+                  - option "Singapore"
+                  - option "Slovakia"
+                  - option "Slovenia"
+                  - option "Solomon Islands"
+                  - option "Somalia"
+                  - option "South Africa"
+                  - option "South Sudan"
+                  - option "Spain"
+                  - option "Sri Lanka"
+                  - option "Sudan"
+                  - option "Suriname"
+                  - option "Swaziland"
+                  - option "Sweden"
+                  - option "Switzerland"
+                  - option "Syria"
+                  - option "Taiwan"
+                  - option "Tajikistan"
+                  - option "Tanzania"
+                  - option "Thailand"
+                  - option "Togo"
+                  - option "Tonga"
+                  - option "Trinidad & Tobago"
+                  - option "Tunisia"
+                  - option "Turkey"
+                  - option "Turkmenistan"
+                  - option "Tuvalu"
+                  - option "Uganda"
+                  - option "Ukraine"
+                  - option "United Arab Emirates"
+                  - option "Uruguay"
+                  - option "Uzbekistan"
+                  - option "Vanuatu"
+                  - option "Vatican City"
+                  - option "Venezuela"
+                  - option "Vietnam"
+                  - option "Yemen"
+                  - option "Zambia"
+                  - option "Zimbabwe"
+                  - option
+            - generic [ref=e830]:
+              - generic [ref=e831]: Why did you decide to visit Fortnum's today?
+              - generic [ref=e833]:
+                - generic [ref=e835]: 
+                - combobox "Why did you decide to visit Fortnum's today?" [ref=e836] [cursor=pointer]:
+                  - option "Please select..." [selected]
+                  - option "Shopping for myself"
+                  - option "Shopping for gifts"
+                  - option "Hosting for Family & Friends"
+                  - option "Dining in the restaurant"
+                  - option "Attending an event in store"
+            - generic [ref=e838]:
+              - button "Sign Up" [disabled]:
+                - generic: Sign Up
+          - paragraph [ref=e1563]:
+            - text: For more details about how we use your information please see our
+            - link "Privacy Policy" [ref=e1565] [cursor=pointer]:
+              - /url: https://www.fortnumandmason.com/privacy-policy
+            - text: .
+        - generic [ref=e847]:
+          - generic [ref=e848]:
+            - list [ref=e849]:
+              - listitem [ref=e850]:
+                - button "Our Stores" [ref=e851] [cursor=pointer]:
+                  - generic [ref=e852]: Our Stores
+                - list [ref=e853]:
+                  - listitem [ref=e854]:
+                    - link "Piccadilly" [ref=e1566] [cursor=pointer]:
+                      - /url: /piccadilly
+                  - listitem [ref=e856]:
+                    - link "St Pancras International" [ref=e1567] [cursor=pointer]:
+                      - /url: /st-pancras
+                  - listitem [ref=e858]:
+                    - link "The Royal Exchange" [ref=e1568] [cursor=pointer]:
+                      - /url: /the-royal-exchange-london
+                  - listitem [ref=e860]:
+                    - link "Bicester Village" [ref=e1569] [cursor=pointer]:
+                      - /url: /bicester-village
+                  - listitem [ref=e862]:
+                    - link "Heathrow T5" [ref=e1570] [cursor=pointer]:
+                      - /url: /heathrow-t5
+                  - listitem [ref=e864]:
+                    - link "Heathrow T4" [ref=e1571] [cursor=pointer]:
+                      - /url: /heathrow-t4
+                  - listitem [ref=e866]:
+                    - link "Canary Wharf" [ref=e1572] [cursor=pointer]:
+                      - /url: /canary-wharf
+                  - listitem [ref=e868]:
+                    - link "Worldwide Stockists" [ref=e1573] [cursor=pointer]:
+                      - /url: /worldwide-stockists
+              - listitem [ref=e870]:
+                - button "Experiences" [ref=e871] [cursor=pointer]:
+                  - generic [ref=e872]: Experiences
+                - list [ref=e873]:
+                  - listitem [ref=e874]:
+                    - link "Afternoon Tea" [ref=e1574] [cursor=pointer]:
+                      - /url: /afternoon-tea
+                  - listitem [ref=e876]:
+                    - link "Restaurants" [ref=e1575] [cursor=pointer]:
+                      - /url: /restaurants
+                  - listitem [ref=e878]:
+                    - link "Events" [ref=e1576] [cursor=pointer]:
+                      - /url: /third-floor-events
+                  - listitem [ref=e880]:
+                    - link "Personalised Gifts" [ref=e1577] [cursor=pointer]:
+                      - /url: /gifts-occasions/gifting-ideas/personalised-gifts
+                  - listitem [ref=e882]:
+                    - link "Seasonal Events" [ref=e1578] [cursor=pointer]:
+                      - /url: /seasonal-events-category
+              - listitem [ref=e884]:
+                - button "Services" [ref=e885] [cursor=pointer]:
+                  - generic [ref=e886]: Services
+                - list [ref=e887]:
+                  - listitem [ref=e888]:
+                    - link "Membership" [ref=e1579] [cursor=pointer]:
+                      - /url: /membership
+                  - listitem [ref=e890]:
+                    - link "Corporate Gifting" [ref=e1580] [cursor=pointer]:
+                      - /url: /corporate-gifting
+                  - listitem [ref=e892]:
+                    - link "Personal Shopping" [ref=e1581] [cursor=pointer]:
+                      - /url: /personal-shopping
+                  - listitem [ref=e894]:
+                    - link "Private Dining" [ref=e1582] [cursor=pointer]:
+                      - /url: /private-dining
+                  - listitem [ref=e896]:
+                    - link "Weddings" [ref=e1583] [cursor=pointer]:
+                      - /url: /weddings
+                  - listitem [ref=e898]:
+                    - link "Concierge" [ref=e1584] [cursor=pointer]:
+                      - /url: /corporate-gifting
+                  - listitem [ref=e900]:
+                    - link "Gift Cards" [ref=e1585] [cursor=pointer]:
+                      - /url: /gifts-occasions/gifting-ideas/gift-cards
+                  - listitem [ref=e902]:
+                    - link "商店指南" [ref=e1586] [cursor=pointer]:
+                      - /url: /china
+                  - listitem [ref=e904]:
+                    - link "Product Recalls" [ref=e1587] [cursor=pointer]:
+                      - /url: /product-recalls
+              - listitem [ref=e906]:
+                - button "Shopping Online" [ref=e907] [cursor=pointer]:
+                  - generic [ref=e908]: Shopping Online
+                - list [ref=e909]:
+                  - listitem [ref=e910]:
+                    - link "Returns Policy" [ref=e1588] [cursor=pointer]:
+                      - /url: /delivery-information
+                  - listitem [ref=e912]:
+                    - link "Returns Portal" [ref=e1589] [cursor=pointer]:
+                      - /url: https://returns.narvar.com/fortnumandmason/returns?locale=en_GB
+                  - listitem [ref=e914]:
+                    - link "Delivery Information" [ref=e1590] [cursor=pointer]:
+                      - /url: /delivery-information
+                  - listitem [ref=e916]:
+                    - link "International Delivery" [ref=e1591] [cursor=pointer]:
+                      - /url: /international-delivery-category
+                  - listitem [ref=e918]:
+                    - link "Click and Collect" [ref=e1592] [cursor=pointer]:
+                      - /url: /delivery-information
+                  - listitem [ref=e920]:
+                    - link "Track my Order" [ref=e1593] [cursor=pointer]:
+                      - /url: /delivery-information
+                  - listitem [ref=e922]:
+                    - link "Gift Card Balance Checker" [ref=e1594] [cursor=pointer]:
+                      - /url: https://wwws-uk1.givex.com/merchant_balcheck/6604_en/
+              - listitem [ref=e924]:
+                - button "More Information" [ref=e925] [cursor=pointer]:
+                  - generic [ref=e926]: More Information
+                - list [ref=e927]:
+                  - listitem [ref=e928]:
+                    - link "Stories" [ref=e1595] [cursor=pointer]:
+                      - /url: /stories
+                  - listitem [ref=e930]:
+                    - link "Contact Us" [ref=e1596] [cursor=pointer]:
+                      - /url: https://support.fortnumandmason.com/hc/en-gb/requests/new
+                  - listitem [ref=e932]:
+                    - link "FAQs" [ref=e1597] [cursor=pointer]:
+                      - /url: https://support.fortnumandmason.com/hc/en-gb
+                  - listitem [ref=e934]:
+                    - link "Our Stores" [ref=e1598] [cursor=pointer]:
+                      - /url: /our-stores
+                  - listitem [ref=e936]:
+                    - link "Our History" [ref=e1599] [cursor=pointer]:
+                      - /url: /our-history
+                  - listitem [ref=e938]:
+                    - link "Careers at Fortnum's" [ref=e1600] [cursor=pointer]:
+                      - /url: https://careers.fortnumandmason.com/
+                  - listitem [ref=e940]:
+                    - link "Sustainability" [ref=e1601] [cursor=pointer]:
+                      - /url: /future-matters
+                  - listitem [ref=e942]:
+                    - link "Charitable Giving" [ref=e1602] [cursor=pointer]:
+                      - /url: /charitable-giving
+                  - listitem [ref=e944]:
+                    - link "Press Office" [ref=e1603] [cursor=pointer]:
+                      - /url: /press-office
+              - listitem [ref=e946]:
+                - button "Follow @Fortnums" [ref=e947] [cursor=pointer]:
+                  - generic [ref=e948]: Follow @Fortnums
+                - list [ref=e949]:
+                  - listitem [ref=e950]:
+                    - link " Facebook" [ref=e1604] [cursor=pointer]:
+                      - /url: https://www.facebook.com/fortnums
+                      - generic [ref=e1605]: 
+                      - generic [ref=e1606]: Facebook
+                  - listitem [ref=e954]:
+                    - link " Instagram" [ref=e1607] [cursor=pointer]:
+                      - /url: https://instagram.com/fortnums
+                      - generic [ref=e1608]: 
+                      - generic [ref=e1609]: Instagram
+                  - listitem [ref=e958]:
+                    - link " Pinterest" [ref=e1610] [cursor=pointer]:
+                      - /url: https://www.pinterest.com/fortnums/
+                      - generic [ref=e1611]: 
+                      - generic [ref=e1612]: Pinterest
+                  - listitem [ref=e962]:
+                    - link " YouTube" [ref=e1613] [cursor=pointer]:
+                      - /url: https://www.youtube.com/@Fortnums
+                      - generic [ref=e1614]: 
+                      - generic [ref=e1615]: YouTube
+                  - listitem [ref=e966]:
+                    - link " TikTok" [ref=e1616] [cursor=pointer]:
+                      - /url: https://www.tiktok.com/@fortnums?lang=en
+                      - generic [ref=e1617]: 
+                      - generic [ref=e1618]: TikTok
+                  - listitem [ref=e970]:
+                    - link " Linkedin" [ref=e1619] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/fortnum-&-mason
+                      - generic [ref=e1620]: 
+                      - generic [ref=e1621]: Linkedin
+            - generic [ref=e980]:
+              - figure [ref=e982]:
+                - img "Content image" [ref=e984]
+              - paragraph [ref=e1622]:
+                - text: Unwrap a year of delicious discoveries - £100 per year Membership
+                - strong [ref=e1623]:
+                  - link "Find out more" [ref=e1625] [cursor=pointer]:
+                    - /url: https://www.fortnumandmason.com/membership
+          - generic [ref=e992]:
+            - list [ref=e993]:
+              - listitem [ref=e994]:
+                - link "Terms & Conditions" [ref=e1626] [cursor=pointer]:
+                  - /url: /terms-and-conditions
+              - listitem [ref=e996]:
+                - link "Terms of Use" [ref=e1627] [cursor=pointer]:
+                  - /url: /terms-of-use
+              - listitem [ref=e998]:
+                - link "Privacy Policy" [ref=e1628] [cursor=pointer]:
+                  - /url: /privacy-policy
+              - listitem [ref=e1000]:
+                - link "Cookie Policy" [ref=e1629] [cursor=pointer]:
+                  - /url: /cookie-policy
+              - listitem [ref=e1002]:
+                - link "Cookie Settings" [ref=e1630] [cursor=pointer]:
+                  - /url: https://www.fortnumandmason.com/cookie-settings
+              - listitem [ref=e1004]:
+                - link "Accessibility" [ref=e1631] [cursor=pointer]:
+                  - /url: /accessibility-statement
+            - button "Switch country and currency" [ref=e1007] [cursor=pointer]:
+              - generic [ref=e1010]: MA /
+              - generic [ref=e1012]: £ GBP
+        - generic [ref=e1013]: © Fortnum & Mason 2026 All Rights Reserved
+  - iframe [ref=e1632]:
+    - button "Open messaging window" [ref=f13e5] [cursor=pointer]:
+      - img [ref=f13e7]
+      - img [ref=f13e10]

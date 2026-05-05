@@ -1,0 +1,355 @@
+[  -49623ms] [LOG] No Meta pixel is configured, please log in as a admin and then visit Stores -> Meta -> Setup -> Get Started @ https://www.nespresso.com/ma/fr:1
+[  -49592ms] [WARNING] Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters @ https://www.nespresso.com/ma/fr:1
+[  -49236ms] [LOG] Element with data-product-item-id='2066' not found. @ https://www.nespresso.com/ma/fr:1
+[  -49235ms] [WARNING] Price box not found for product-id 2483 @ https://www.nespresso.com/ma/fr:1
+[  -49235ms] [WARNING] Price box not found for product-id 2481 @ https://www.nespresso.com/ma/fr:1
+[  -49235ms] [WARNING] Price box not found for product-id 2481 @ https://www.nespresso.com/ma/fr:1
+[  -49234ms] [WARNING] Price box not found for product-id 2481 @ https://www.nespresso.com/ma/fr:1
+[  -49234ms] [WARNING] Price box not found for product-id 2477 @ https://www.nespresso.com/ma/fr:1
+[  -49233ms] [WARNING] Price box not found for product-id 2476 @ https://www.nespresso.com/ma/fr:1
+[  -49232ms] [WARNING] Price box not found for product-id 2478 @ https://www.nespresso.com/ma/fr:1
+[  -48459ms] [LOG] JQMIGRATE: Migrate is installed with logging active, version 3.3.2 @ https://www.nespresso.com/ma/fr:1
+[  -48456ms] [WARNING] JQMIGRATE: jQuery.type is deprecated @ https://www.nespresso.com/ma/fr:1
+[  -48380ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://www.nespresso.com/ma/static/version1777299516/frontend/buynespresso/theme-morocco-fr/fr_FR/Yireo_GoogleTagManager2/js/logger.min.js:0
+[  -48370ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://www.nespresso.com/ma/static/version1777299516/frontend/buynespresso/theme-morocco-fr/fr_FR/Yireo_GoogleTagManager2/js/mixins/step-navigator-mixin.min.js:0
+[  -48370ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://www.nespresso.com/ma/static/version1777299516/frontend/buynespresso/theme-morocco-fr/fr_FR/PayPal_Braintree/js/model/step-navigator-mixin.min.js:0
+[  -48370ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://www.nespresso.com/ma/static/version1777299516/frontend/buynespresso/theme-morocco-fr/fr_FR/Magento_Checkout/js/model/step-navigator.min.js:0
+[  -48333ms] [WARNING] JQMIGRATE: jQuery.fn.scroll() event shorthand is deprecated @ https://www.nespresso.com/ma/fr:1
+[  -47993ms] [INFO] Creating a worker from 'blob:https://www.nespresso.com/52aced42-c585-455c-9666-07286de2e0af' violates the following Content Security Policy directive: "default-src https: data: 'unsafe-eval' 'unsafe-inline'". Note that 'worker-src' was not explicitly set, so 'default-src' is used as a fallback. The policy is report-only, so the violation has been logged but no further action has been taken. @ https://www.nespresso.com/cy9P-lFGVQ_-P/TvJD/xLUBBkSfJM/1OriXt7J1NcOSk/Awo7OlkB/cBVk/X1I9ajsB:0
+[  -47900ms] [WARNING] JQMIGRATE: jQuery.fn.click() event shorthand is deprecated @ https://www.nespresso.com/ma/fr:1
+[  -47870ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://www.nespresso.com/ma/static/version1777299516/frontend/buynespresso/theme-morocco-fr/fr_FR/mage/redirect-url.min.js:0
+[  -47856ms] [ERROR] Error: Script error for "mage/redirect-url"
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47855ms] [ERROR] Error: Script error for "mage/redirect-url"
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47854ms] [ERROR] Error: Script error for "mage/redirect-url"
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47853ms] [ERROR] Error: Script error for "mage/redirect-url"
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47853ms] [ERROR] Error: Script error for "mage/redirect-url"
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47853ms] [ERROR] Error: Script error for "mage/redirect-url"
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47834ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://www.nespresso.com/csp-endpoint/index:0
+[  -47826ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://www.nespresso.com/ma/static/version1777299516/frontend/buynespresso/theme-morocco-fr/fr_FR/Buynespresso_GoogleTagManager/js/generic.min.js:0
+[  -47821ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://www.nespresso.com/ma/static/version1777299516/frontend/buynespresso/theme-morocco-fr/fr_FR/Yireo_GoogleTagManager2/js/mixins/minicart-mixin.min.js:0
+[  -47773ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://www.nespresso.com/ma/static/version1777299516/frontend/buynespresso/theme-morocco-fr/fr_FR/Buynespresso_Customer/js/validation/buynespresso-validate-mixin.min.js:0
+[  -47769ms] [ERROR] Error: Script error for "Buynespresso_GoogleTagManager/js/generic"
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47756ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://www.nespresso.com/ma/static/version1777299516/frontend/buynespresso/theme-morocco-fr/fr_FR/Magento_PageBuilder/js/resource/jarallax/jarallax.min.js:0
+[  -47751ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://www.nespresso.com/ma/static/version1777299516/frontend/buynespresso/theme-morocco-fr/fr_FR/vimeo/vimeo-wrapper.min.js:0
+[  -47742ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47741ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47741ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47740ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47740ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47739ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47739ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47738ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47738ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47738ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47737ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47737ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47737ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47736ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47736ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47736ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47735ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47735ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47735ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47735ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47734ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47734ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47734ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47733ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47733ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47733ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47732ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47732ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47732ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47731ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47730ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47729ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47728ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47728ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47728ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47727ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47727ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47727ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47726ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47725ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47725ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47724ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47724ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47723ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47723ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47723ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47722ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47722ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47722ms] [ERROR] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax", needed by: Magento_PageBuilder/js/widget/video-background, Magento_PageBuilder/js/content-type/row/appearance/default/widget
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712) @ https://www.nespresso.com/ma/fr:1
+[  -47713ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://www.nespresso.com/ma/static/version1777299516/frontend/buynespresso/theme-morocco-fr/fr_FR/Magento_PageBuilder/js/resource/jarallax/jarallax-wrapper.min.js:0
+[  -46077ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://www.nespresso.com/ma/static/version1777299516/frontend/buynespresso/theme-morocco-fr/fr_FR/Magento_Enterprise/favicon.ico:0
+[  -45992ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://www.nespresso.com/ma/static/version1777299516/frontend/buynespresso/theme-morocco-fr/fr_FR/Magento_Enterprise/favicon.ico:0
+[  -45890ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://www.nespresso.com/ma/static/version1777299516/frontend/buynespresso/theme-morocco-fr/fr_FR/Magento_Theme/favicon.ico:0
+[  -45222ms] [WARNING] Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters @ https://www.nespresso.com/ma/fr:1
+[  -43146ms] [WARNING] The resource https://s2.go-mpulse.net/boomerang/NT4K9-3WWLD-YXPMD-LDFKE-BYKW2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.nespresso.com/ma/fr:0
+[  -35832ms] [WARNING] The resource https://s2.go-mpulse.net/boomerang/NT4K9-3WWLD-YXPMD-LDFKE-BYKW2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.nespresso.com/ma/fr:0
+[  -17455ms] [WARNING] The resource https://s2.go-mpulse.net/boomerang/NT4K9-3WWLD-YXPMD-LDFKE-BYKW2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.nespresso.com/ma/fr:0
+[  -13432ms] [WARNING] The resource https://s2.go-mpulse.net/boomerang/NT4K9-3WWLD-YXPMD-LDFKE-BYKW2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.nespresso.com/ma/fr:0
+[   -8898ms] [WARNING] The resource https://s2.go-mpulse.net/boomerang/NT4K9-3WWLD-YXPMD-LDFKE-BYKW2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.nespresso.com/ma/fr:0
+[       5ms] Error: Script error for "Yireo_GoogleTagManager2/js/logger", needed by: Buynespresso_GoogleTagManager/js/push
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712)
+[       5ms] Error: Script error for "Yireo_GoogleTagManager2/js/mixins/step-navigator-mixin"
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712)
+[       5ms] Error: Script error for "PayPal_Braintree/js/model/step-navigator-mixin"
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712)
+[       5ms] Error: Script error for "Magento_Checkout/js/model/step-navigator"
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712)
+[       5ms] Error: Script error for "Yireo_GoogleTagManager2/js/mixins/minicart-mixin"
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712)
+[       5ms] Error: Script error for "Buynespresso_Customer/js/validation/buynespresso-validate-mixin"
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712)
+[       5ms] Error: Script error for "Magento_PageBuilder/js/resource/jarallax/jarallax-wrapper"
+https://requirejs.org/docs/errors.html#scripterror
+    at makeError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:17:53)
+    at HTMLScriptElement.onScriptError (https://www.nespresso.com/ma/static/version1777299516/_cache/merged/b00e86a0b1042c9d6955c7553db7a1a4.min.js:117:697)
+    at HTMLScriptElement.nrWrapper (https://www.nespresso.com/ma/fr:2:8712)
+[       5ms] Error: No options detected. Please consult documentation.
+    at e.value (https://www.nespresso.com/ma/static/version1777299516/frontend/buynespresso/theme-morocco-fr/fr_FR/magepack/bundle-common.min.js:1:98314)
+    at https://www.nespresso.com/ma/static/version1777299516/frontend/buynespresso/theme-morocco-fr/fr_FR/magepack/bundle-common.min.js:1:95976
+    at nrWrapper (https://www.nespresso.com/ma/fr:2:8712)
