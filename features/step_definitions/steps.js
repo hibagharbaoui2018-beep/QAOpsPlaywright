@@ -1,5 +1,6 @@
 const {When, Then, Given} = require('@cucumber/cucumber')
 
+// there is the steps 
 
 Given('a login to Ecommerce application with {string} and {string}', async function (string, string2) {
     // Write code here that turns the phrase above into concrete actions
